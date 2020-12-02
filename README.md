@@ -1,8 +1,8 @@
-# Verizon Media Open Source Guide
+# Power Home Remodeling Group Open Source Guide
 
-The Verizon Media Open Source guide project is a public version of the internal guide used at Verizon Media to help engineers navigate our policies and services.
+The Power Home Remodeling Group Open Source guide project is a public version of the internal guide used at Power Home Remodeling Group to help engineers navigate our policies and services.
 
-We make this guide public out of our belief that sharing code and content brings out our best while inviting others to help us get better. If you have edits, suggestions, or questions about this guide, please open an issue on this project. If you'd like to fork this guide and use it at your company, please do so but we'd love to know about it too. 
+We make this guide public out of our belief that sharing code and content brings out our best while inviting others to help us get better. If you have edits, suggestions, or questions about this guide, please open an issue on this project. If you'd like to fork this guide and use it at your company, please do so but we'd love to know about it too.
 
 ## Background
 
@@ -15,12 +15,9 @@ This guide is built using GitHub Pages with Jekyll and the Just the Docs theme.
 Please refer to [the contributing.md file](Contributing.md) for information about how to get involved. We welcome issues, questions, and pull requests.
 
 ## Maintainers
-- Ashley Wolf: awolf@verizonmedia.com
-- Gil Yehuda: gyehuda@verizonmedia.com
 
-Thank you to Megan Leney and Ben Pearson for helping us refine this guide.
+- Ben Langfeld: blangfeld@powerhrg.com
 
 ## License
-This guide is inspired by, and some sections are derivative of a similar guide published by Google. 
-Their work and ours is licensed under CC-BY-4.0.
 
+This guide is based on [the Verizon Media OSS guide](https://github.com/VerizonMedia/oss-guide), which is in turn inspired by, and some sections are derivative of a similar guide published by [Google](https://opensource.google.com/docs/using/license/). Their work and ours is licensed under [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/).
