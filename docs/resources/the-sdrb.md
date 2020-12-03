@@ -1,9 +1,11 @@
 ---
 layout: default
-title: The Open Source Program Office
+title: The Software Development Review Board
 parent: Resources to Address Common Questions
 nav_order: 1
 ---
+
+## Open Source Project Office (Generic)
 
 An **Open Source Project Office (OSPO)** is the center of competency for an organization's open source operations and structure. This can include setting code use, distribution, selection, auditing and other policies, as well as training developers, ensuring legal compliance and promoting and building community engagement that benefits the organization strategically. Typically OSPOs are structured to support a company’s open source goals. Every company is different and their OSPOs differ too. The [//TODO Group](https://todogroup.org/) is a community of OSPOs that help clarify and improve the role of OSPOs at companies. They work together to publish [The Linux Foundation's Open Source Resources](https://www.linuxfoundation.org/resources/open-source-guides) page and speak at industry events.
 

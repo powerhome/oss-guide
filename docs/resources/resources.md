@@ -28,4 +28,4 @@ When launching an app that clients use, you'll need to know about all the open s
 Publication is the first step in a process, not the last. The SDRB will help some teams [promote their open source projects](../evangelizing/support.md) but the primary burden rests upon the team that publishes the code project.
 
 ## But I Have Other Questions!
-Good! [The Open Source Program Office](../resources/the-SDRB.md) is here to help. See the topics below and let us know what questions you have that we did not address.
+Good! [Software Development Review Board](../resources/the-sdrb.md) is here to help. See the topics below and let us know what questions you have that we did not address.
