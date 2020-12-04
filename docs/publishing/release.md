@@ -25,7 +25,7 @@ You may opt to set up a project website, documentation pages, or community group
 
 ## First Quarter
 
-During the first three month after publication, we expect the project team to be active in promoting and supporting their new open source project. Projects that "dump and run" tarnish our reputation and make the engineers on the team look like they only published code to add a bullet to a resume, but not to grow an open source community. New projects can generate a lot of positive buzz on social media communities, but this will only sustain if the project team is visible and active.
+During the first three month after publication, we expect the project team to be active in promoting and supporting their new open source project. Projects that "dump and run" tarnish our reputation and make the developers on the team look like they only published code to add a bullet to a resume, but not to grow an open source community. New projects can generate a lot of positive buzz on social media communities, but this will only sustain if the project team is visible and active.
 
 During the first three months, we'll help you promote your project with a blog post, invite you to talk about it on our podcast, and review your presentation for a relevant meetup or conference. After that, we'll make ourselves available to you for consultation about growing your community. If we have the resources and your project is on our tier 1 support list, we'll continue to support your community management needs.
 

@@ -15,7 +15,7 @@ The SDRB provides a range of support services to help our open source projects b
 
 ## Tier 1: Strategic Support
 
-This level of support is for projects with a strategic to value and robust engineering support. To receive strategic support, a project must:
+This level of support is for projects with a strategic to value and robust development support. To receive strategic support, a project must:
 
 - Have a strategic value to Power.
 - Have an internal employee project owner that serves as point of contact for all issues.
@@ -53,7 +53,7 @@ This level of support is for projects that further Power's technology goals and 
 
 We will provide your project:
 
-1. Recognition on the [Yahoo Open Source](https://opensource.yahoo.com) website and related open source engineering pages.
+1. Recognition on the [Yahoo Open Source](https://opensource.yahoo.com) website and related open source development pages.
 1. Security alert notices and resolution tracking.
 1. Notifying the of important conference deadlines posted internally in our #tech-events slack channel.
 

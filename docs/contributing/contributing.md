@@ -11,7 +11,7 @@ This page highlights the steps you'll take when it comes to contributing company
 
 ### Step Zero: Planning for Success
 
-We encourage Power developers to contribute to projects we rely upon. We seek to be good open source citizens. If you find a bug, or can make some code better, we want to enable you do it. However, we want you to be aware of some concerns that you should keep in mind. Most of the time, these will not come up. Given the number of projects we work on, the number of engineers we have, and the complexity of some projects, we occasionally run into blocking issues.
+We encourage Power developers to contribute to projects we rely upon. We seek to be good open source citizens. If you find a bug, or can make some code better, we want to enable you do it. However, we want you to be aware of some concerns that you should keep in mind. Most of the time, these will not come up. Given the number of projects we work on, the number of developers we have, and the complexity of some projects, we occasionally run into blocking issues.
 
 Please read the guidelines below. If none of these issues are relevant to your pull request, then go ahead and contribute to an open source project. You do not need to get approval for every pull request. The overhead involved in these approvals is not worth it. That said, if the issues below are relevant, or if you have **any** concerns about your contribution, ask us. We're here to help you.
 
@@ -30,7 +30,7 @@ Most CLAs contain terms that we are okay signing. So don't be worried about aski
 Although this should be obvious, let's take this moment to remind you:
 * We can only contribute code that we have the right to contribute. If you have any reason to think you are contributing code that we shouldn't contribute, open a Jira ticket with the SDRB and let's clarify things first.
 * Don't contribute code that exposes sensitive or proprietary information. This includes code (or documentation) with links to servers that external developers can't get to.
-* Don't contribute sub-par code. Your contributions are a reflection of your engineering skills. We'd rather take the time and get another set of eyes and do a proper code review. It's our reputation too.
+* Don't contribute sub-par code. Your contributions are a reflection of your development skills. We'd rather take the time and get another set of eyes and do a proper code review. It's our reputation too.
 
 Once in a while we're reminded that it's better if you think things through first. Most of the time, a code contribution to an open source project is a normal and inconsequential task. But sometimes its more than that. If you are working on something that is quite consequential, and you have any reason to wonder if you should make this contribution, open a Jira ticket and ask us for help.
 

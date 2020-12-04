@@ -13,7 +13,7 @@ This page highlights how the SDRB can help you be an awesome _open source corpor
 
 An awesome open source corporate citizen is combination of two behavior sets:
 
-- **Working well with the open source community.** The open source community is collaborative. Successful open source engineers combine an element of bravery (putting your code out there) with humility (accepting the sting of a very helpful fix). We encourage you to show off your best skills as an engineer, and also as a team player, a listener, and someone who is open to discovering new solutions to difficult problems.
+- **Working well with the open source community.** The open source community is collaborative. Successful open source developers combine an element of bravery (putting your code out there) with humility (accepting the sting of a very helpful fix). We encourage you to show off your best skills as a developer, and also as a team player, a listener, and someone who is open to discovering new solutions to difficult problems.
 
 - **Working well with the SDRB as an employee.** As an employee, we also need you to comply with our policies. We need to know what you are working on and ensure that we can step in and help if anything comes up that requires our help. This guide will highlight some of these policies you need to be aware of so that we can work together towards your success. With this as the foundation, we'll then share the set of services we provide you and your projects to best promote them in the open source world.
 
@@ -27,10 +27,10 @@ For more details please see [the resources page related to GitHub](../resources/
 
 ## Step 2: Good Standing
 
-Working as a corporate engineer who is also an open source developer means that you maintain a good standing with both the open source community and the company.
+Working as a corporate developer who is also an open source developer means that you maintain a good standing with both the open source community and the company.
 1. We encourage you to be an open source contributor, but we do not allow you to sign a contribution license without approval.
 1. We will help you publish projects, but we do not allow you to publish proprietary or sensitive code without authorization.
-1. We trust you are an excellent engineer, after all, we hired you. But we also expect that you ask the SDRB for help and keep us informed of any issue that comes up.
+1. We trust you are an excellent developer, after all, we hired you. But we also expect that you ask the SDRB for help and keep us informed of any issue that comes up.
 
 ## Step 3: Promoting You
 

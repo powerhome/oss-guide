@@ -1,12 +1,12 @@
 # Power Home Remodeling Group Open Source Guide
 
-The Power Home Remodeling Group Open Source guide project is a public version of the internal guide used at Power Home Remodeling Group to help engineers navigate our policies and services.
+The Power Home Remodeling Group Open Source guide project is a public version of the internal guide used at Power Home Remodeling Group to help developers navigate our policies and services.
 
 We make this guide public out of our belief that sharing code and content brings out our best while inviting others to help us get better. If you have edits, suggestions, or questions about this guide, please open an issue on this project. If you'd like to fork this guide and use it at your company, please do so but we'd love to know about it too.
 
 ## Background
 
-We encourage tech companies to set and communicate guidelines to help support engineers with open source questions. Our guide addresses the common questions that engineers face: e.g. _can I use this code in my project?, can I contribute code to a project I use?, where do we publish code we want to share with others?_ etc.
+We encourage tech companies to set and communicate guidelines to help support developers with open source questions. Our guide addresses the common questions that developers face: e.g. _can I use this code in my project?, can I contribute code to a project I use?, where do we publish code we want to share with others?_ etc.
 
 This guide is built using GitHub Pages with Jekyll and the Just the Docs theme.
 
