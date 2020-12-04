@@ -22,7 +22,7 @@ With our help, if you follow the steps and get approval, you can [publish a new 
 We encourage you to update projects with fixes by [contributing to open source projects](../contributing/contributing.md) we use rather than forking those projects. Sometimes you'll need to involve the SDRB first. Some projects ask you to sign a CLA, and we'll need to get that reviewed and approved first. There are very rare cases where an open source project might pose some sort of conflict issue too, so if you suspect that's the case, please ask first.
 
 ## Any Open Source Concerns when Launching Apps?
-When launching an app that clients use, you'll need to know about all the open source code in that app binary. Start with the page about [Launching Mobile Apps](../launching/mobile.md) and reach out to the SDRB for details.
+When launching an app that clients use, you'll need to know about all the open source code in that app binary. Start with the page about [using OSS in Mobile Apps](../using/mobile.md) and reach out to the SDRB for details.
 
 ## What Happens After I Publish an Open Source Project?
 Publication is the first step in a process, not the last. The SDRB will help some teams [promote their open source projects](../evangelizing/support.md) but the primary burden rests upon the team that publishes the code project.

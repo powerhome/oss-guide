@@ -27,7 +27,7 @@ When you find code on the internet that you want to use, you should first look f
 
 Permissive licenses grant permission to use the code, imposing minimal obligations, and are relatively easy to comply with. The MIT, BSD, and Apache licenses are permissive. We come across many less common, but permissive licenses. Although details in each vary, we consider zLib, ISC, JSON to be permissive and are generally acceptable for almost all uses. Creative Commons Attribution (CC-BY) and SIL Open Font are usually acceptable when applied to content and fonts. Please ask if you see something less common.
 
-We can use code licensed under a permissive license. When that code is used in a [mobile app](../launching/mobile.md) or [other distributed software](../using/distributed.md), follow the product launch guidelines to ensure we have listed the appropriate credits in our product before launch.
+We can use code licensed under a permissive license. When that code is used in a [mobile app](../using/mobile.md) or [other distributed software](../using/distributed.md), follow the product launch guidelines to ensure we have listed the appropriate credits in our product before launch.
 
 ### Restrictive Open Source Licenses
 

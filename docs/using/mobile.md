@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Launching Mobile Apps
-nav_order: 4
-has_children: false
+title: Mobile Apps
+nav_order: 1
+parent: Using Open Source Code
 ---
 
-# Launching Mobile Apps
+# Mobile Apps
 
 This page highlights issues Mobile App development teams need to know about open source code in their apps.
 
