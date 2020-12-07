@@ -21,6 +21,8 @@ A **license** gives people permission to copy and use code that someone else wro
 
 **Please note**: If you find code without a license, assume you don't have the right to use the code. You can read it for pleasure and education, but you can't use the code. This means: If you want to use someone else's code, we need to make sure you have these rights. If they have not placed a license in their code project, you can always open an issue on the project and ask: "We'd love to use this code in a project of ours and wanted to make sure that you are OK with it. Would you be willing to add an OSI-approved license like the MIT or the Apache License to the project so that we know this is really open source?" This usually works, at least if the project is actively maintained.
 
+In order to determine if you can use a specific open source project for a specific use case, consult the [list of permitted licenses by use-case](../using/permitted-licenses.md).
+
 When you find code on the internet that you want to use, you should first look for the license file. We typically find one of three types of licenses:
 
 ### Permissive Open Source Licenses
