@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Mobile Apps
-nav_order: 1
+nav_order: 2
 parent: Using Open Source Code
 ---
 
