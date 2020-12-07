@@ -42,3 +42,7 @@ Speaking of exceptional situations, please read our guidance on the [AGPL Licens
 There are many types of licenses that grant permission to use the code, but contain terms that are not compliant with or were not reviewed by the Open Source Initiative (OSI). Some of these licenses are fairly low risk to us, but others are not. For example, CC-0, a declaration of public domain, Beerware, and even WTFPL on code sends the message that we're going to be OK using the code, whereas other licenses pose interesting considerations and risks because they are designed to restrict certain usages or users. Technically speaking, these are not Open Source licenses since they do not comply with the OSI definition of Open Source.
 
 Recently, there has been a new batch of "source available" licenses that operate like open source for most people, or that eventually become open source, or that discriminate against some people or businesses. When it comes to anything like this, please ask the SDRB for guidance.
+
+### Patent grants
+
+Power currently follows the understanding that, at least within the USA, typical open source licenses which grant the right to use the software carry an implicit patent grant along with them, and that explicit patent grants a-la the Apache License v2.0 are not required. See https://google.github.io/opencasebook/patents/ for more details on the distinction between explicit and implicit patent grants in OSS licenses and examples of relevant case law.
