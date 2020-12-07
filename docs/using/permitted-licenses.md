@@ -39,13 +39,18 @@ This use case covers software which is delivered in binary format for execution 
 
 The following licenses are permitted for use for each category of use case. Any licenses not on this list are not yet permitted for use at Power, but will be considered for inclusion in this list on request to the SDRB. If you propose to use an open source project licensed under any license not present in this list, contact the SDRB. If you propose to use an open source project in a way not permitted by this combination of license and use case, contact the SDRB to discuss the available options.
 
-| License | Internal use | SaaS back-end | SaaS front-end | Mobile / Desktop App |
-| ------- | ------------ | ------------- | -------------- | -------------------- |
-| MIT | ✅ | ✅ | ✅ | ✅ |
-| Berkeley Software Distribution (BSD) 3-clause, 2-clause and 0-clause variants | ✅ | ✅ | ✅ | ✅ |
-| Apache License, 1.0, 1.1 and 2.0 variants | ✅ | ✅ | ✅ | ✅ |
-| Mozilla Public License, 1.0, 1.1 and 2.0 variants | ✅ | ✅ | ✅ | ✅ |
-| Common Development and Distribution License (CDDL) | ✅ | ✅ | ✅ | ✅ |
-| GNU Public License (GPL), v2 and v3 | ✅ | ✅ | 🚫 | 🚫 |
-| Lesser GNU Public License (LGPL) | ✅ | ✅ | 🚫 | 🚫 |
-| Affero General Public License (AGPL) | 🚫 | 🚫 | 🚫 | 🚫 |
+| License | SPDX Identifier | Internal use | SaaS back-end | SaaS front-end | Mobile / Desktop App |
+| ------- | --------------- | ------------ | ------------- | -------------- | -------------------- |
+| Apache License 2.0 | Apache-2.0 | ✅ | ✅ | ✅ | ✅ |
+| Berkeley Software Distribution (BSD) 3-clause | BSD-3-Clause | ✅ | ✅ | ✅ | ✅ |
+| Berkeley Software Distribution (BSD) 2-clause | BSD-2-Clause | ✅ | ✅ | ✅ | ✅ |
+| Common Development and Distribution License 1.0 | CDDL-1.0 | ✅ | ✅ | ✅ | ✅ |
+| MIT License | MIT | ✅ | ✅ | ✅ | ✅ |
+| Mozilla Public License 1.0 | MPL-1.0 | ✅ | ✅ | ✅ | ✅ |
+| Mozilla Public License 1.1 | MPL-1.1 | ✅ | ✅ | ✅ | ✅ |
+| Mozilla Public License 2.0 | MPL-2.0 | ✅ | ✅ | ✅ | ✅ |
+| GNU Affero General Public License version 3 | AGPL-3.0 | 🚫 | 🚫 | 🚫 | 🚫 |
+| GNU General Public License version 2 | GPL-2.0 | ✅ | ✅ | 🚫 | 🚫 |
+| GNU General Public License version 3 | GPL-3.0 | ✅ | ✅ | 🚫 | 🚫 |
+| GNU Lesser General Public License version 2.1 | LGPL-2.1 | ✅ | ✅ | 🚫 | 🚫 |
+| GNU Lesser General Public License version 3 | LGPL-3.0 | ✅ | ✅ | 🚫 | 🚫 |
