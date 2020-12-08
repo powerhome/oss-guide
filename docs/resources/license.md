@@ -5,7 +5,7 @@ parent: Resources to Address Common Questions
 nav_order: 3
 ---
 
-**An Open Source License** is a legal document that defines the terms under which permission is granted by a rights holder to the recipient. Open source licenses [listed here](https://opensource.org/licenses) allow software to be used, modified, and shared by anyone for any purpose with very few restrictions.
+**An Open Source License** is a legal document that defines the terms under which permission is granted by a rights holder to the recipient. [Open source licenses](https://opensource.org/licenses) allow software to be used, modified, and shared by anyone for any purpose with very few restrictions.
 
 ### Do All Open Source Projects Have Licenses?
 
@@ -15,17 +15,18 @@ For this reason we put a license in the root of all of our code projects and add
 
 ### How Do We Pick Which License To Use?
 
-By default we use the Apache License 2.0 since it is permissive (allowing people to use the code with very few restrictions) and handles patents in a way we think is clear and fair. It is also widely used and understood. We also use the New BSD and MIT licenses, usually in cases where the community norm is to use those licenses (e.g. Node.JS modules are nearly all licensed MIT, so we'll use that too). Our intent is to be clear, grant permissions, and fit in with the community we're operating in.
+By default we use the MIT license since it is permissive (allowing people to use the code with very few restrictions), simple, well known and broadly used in the Ruby and Javascript communities. Our intent is to be clear, grant permissions, and fit in with the community we're operating in./
 
-There are times we are required to, or it is ideal to, license code under other licenses. For example, if we are extending code licensed under the GPL license, we'll license our derivative work under GPL in compliance with the terms of the license. In those cases, please see [our GPLCC declaration](https://developer.yahoo.com/opensource/docs/GPL-Cooperation-Commitment.html) assuring that if someone violates the terms of our GPL licensed code, we'll extend to them an opportunity to cure and reinstate their license.
+There are times we are required to, or it is ideal to, license code under other licenses. For example, if we are extending code licensed under the GPL license, we'll license our derivative work under GPL in compliance with the terms of the license. In those cases, if someone violates the terms of our GPL licensed code, we'll extend to them an opportunity to cure and reinstate their license. If we hold a patent relevant to open source code we publish, we'll publish it under the Apache License 2.0 which includes an explicit patent grant.
 
 ### Are All Open Source Licenses Alike?
 
-All open source licenses grant rights that comply with the [open source definition](https://opensource.org/osd). But they differ in important ways from each other. We generally categorize licenses as being _permissive_ or _restrictive_. The former are relatively easy to comply with, the latter could impose more complications under many circumstances. There will be instances where we will or will not _use_ code based on the license. There will be instances where we will or will not _contribute to a project_ based on the license. Situational details matter such that we'll say yes in some cases, no in others. Our role as an SDRB is in part to help educate our developers about these issues, but ultimately to determine a proper course of action for a given situation. Our consistent message to developers: *please ask whenever you see something that you are not 100% sure about. We will help inform and decide what makes the most sense in a given situation.*
+All open source licenses grant rights that comply with the [open source definition](https://opensource.org/osd). But they differ in important ways from each other. We generally categorize licenses as being _permissive_ or _restrictive_. The former are relatively easy to comply with, the latter could impose more complications under many circumstances. There will be instances where we will or will not _use_ code based on the license. There will be instances where we will or will not _contribute to a project_ based on the license. Situational details matter such that we'll say yes in some cases, no in others. The SDRB's role is in part to help educate our developers about these issues, but ultimately to determine a proper course of action for a given situation. Our consistent message to developers: *please ask whenever you see something that you are not 100% sure about. We will help inform and decide what makes the most sense in a given situation.*
 
 ### Are Any Licenses _Not_ Open Source?
 
 Yes. The most common are commercial licenses that grant limited permissions in return for money. But there are others that offer openness and freedoms, but are still not technically _open source_.
+
 * Source-Available licenses are neither commercial nor open source. They operate similarly to open source in that they offer many rights and comply with much of the open source definition, but they are designed with some restrictions (e.g. limiting who can use the code or for what purposes).
 * There is a new category of license that is perhaps a subcategory of _Source-Available_ but worth noting as distinct due to different motivations and applications. These are collectively being called [Ethical Source Licenses](https://ethicalsource.dev/licenses/) and include the [The Hippocratic License 2.1](https://firstdonoharm.dev/).
 * Freeware licenses are used for applications that are free to use (i.e. no cost), but you can't see or modify the source code.
@@ -37,6 +38,7 @@ As with any license questions (especially those not approved by OSI), please ask
 ### What About a Licence for Content?
 
 Open _source_ licenses are designed to be used for _source_ code. Other content, such as images, documentation, or data sets are often better licensed using _content_ licenses. Some examples:
+
 * The [Creative Commons Licenses](https://creativecommons.org/licenses/) provide a set of options that allow a copyright holder to share content under terms that are _similar_ to terms found in open source licenses.
 * Some data sharing projects leverage the [Open Database License](https://opendatacommons.org/licenses/odbl/index.html) or other licenses that are drafted to address the specific concerns related to data.
 * Some fonts are licensed under an open font license such as the [SIL Open Font License 1.1](https://opensource.org/licenses/OFL-1.1).
@@ -48,5 +50,5 @@ Note: some open content licenses do not comply with the open source definition. 
 Here are a few thoughts to help you out as you read about this elsewhere:
 
 * Often companies think of intellectual property as something they don't want to share. Whereas many software developers see value in sharing their code with peers. There are two levels of concerns (at least). One is letting someone else see what might be a secret. The other is giving up some control over an asset. The license discussions will help clarify things. Open source licensing is not an wanton abandonment of rights, it's a method of managing trust.
-* The term `free` is best understood as emancipation, not cost. Think of the phrase `the code is free` to mean it has freedom and can be used without constraints of the owner, not that it lacks cost. Substitute `slave` for `code` in the above phrase if that helps. Open source does not attempt to prevent people from making money, but it does change the way a company could make money. This is often misunderstood.
+* The term `free` is best understood as emancipation, not cost. Think of the phrase `the code is free` to mean it has freedom and can be used without constraints of the owner, not that it lacks cost. This is a question of liberty. Open source does not attempt to prevent people from making money, but it does change the way a company could make money. This is often misunderstood.
 * The term `open` means more than _visible_, it means _unrestrained_. Often an entity may be willing to make some code visible, but still seeks to restrain what others can do with that code (e.g. you can see my code, but you can't use it in a way that might cause me to lose money.) Those cases cause confusion when people use the term `open` but really mean something more restricted.

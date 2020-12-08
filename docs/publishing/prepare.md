@@ -48,7 +48,7 @@ This part can get surprisingly complicated, especially when it comes to code pro
 
 1. Remove all internal dependencies or references in your code and documentation. This includes any references to server names, binaries, databases, or internal communication addresses. Remove references to internal directory conventions. Also remove comments or documentation references to tickets, internal code names, and anything else that wouldn't make sense to external developers.
 1. Remove embarrassing content. e.g. curse words, references to poor coding practices ("stolen from"), jokes, and anything that would be embarrassing if it were made public.
-1. Perform any paranoid-required code review for vulnerabilities in static code or dependencies
+1. Perform any required code review for vulnerabilities in static code or dependencies
 1. Remove all embedded credentials, passwords, or other secrets that may be in the code or a configuration file. (Note: we expect secrets to be managed outside of source code, but we ask you to check nonetheless. We'll check too.)
 
 ## Prepare Your Repository
