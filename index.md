@@ -2,7 +2,7 @@
 
 The Power Open Source Software Developer Guide covers all relevant information to publishing, using, contributing to, promoting, and growing open source at Power Home Remodeling.
 
-> The Power Software Development Review Board (SDRB) provides services to help developers with their open source needs. These services are highlighted in this guide. Employees can contact the SDRB team [via Connect](https://nitro.powerhrg.com/connect#rooms/56351) with questions.
+> The Power Software Development Review Board (SDRB) provides services to help developers with their open source needs. These services are highlighted in this guide. Employees can contact the SDRB team [via Connect](https://nitro.powerhrg.com/connect#rooms/56661) with questions.
 
 ## Contents
 
