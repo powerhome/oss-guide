@@ -9,8 +9,6 @@ nav_order: 5
 
 This page highlights how the SDRB helps you promote your project using blogs.
 
-### Step Zero: Planning for Success
-
 Power's BT department hosts a [tech blog](https://blog.techatpower.com/). We invite all members of BT to publish technical content to this blog.
 
 ## Step 1: Consider the Reader

@@ -1,12 +1,13 @@
 ---
 layout: default
 title: Contributing Template
-nav_order: 4
+nav_order: 3
 parent: Publishing Template
 grand_parent: Publishing a New Open Source Project
 ---
 
 # How to contribute
+
 First, thanks for taking the time to contribute to our project! There are many ways you can help out.
 
 ### Questions
@@ -18,9 +19,10 @@ If you have a question that needs an answer, [create an issue](https://help.gith
 If you encounter any bugs in the code, or want to request a new feature or enhancement, please [create an issue](https://help.github.com/articles/creating-an-issue/) to report it. Kindly add a label to indicate what type of issue it is.
 
 ### Contribute Code
+
 We welcome your pull requests for bug fixes. To implement something new, please create an issue first so we can discuss it together.
 
-***Creating a Pull Request***
+#### Creating a Pull Request
 Please follow [best practices](https://github.com/trein/dev-best-practices/wiki/Git-Commit-Best-Practices) for creating git commits.
 
 When your code is ready to be submitted, [submit a pull request](https://help.github.com/articles/creating-a-pull-request/) to begin the code review process.

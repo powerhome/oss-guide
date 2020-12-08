@@ -53,7 +53,7 @@ Install by running the following command.
 ```
 git clone <link>
 ```
-This will create a directory called Power-Media-Open-Source-Skeleton and download the contents of this repo to it.
+This will create a directory called Power-Open-Source-Skeleton and download the contents of this repo to it.
 
 ## Configuration
 _Describe any configurations the user will need to complete to run this project._

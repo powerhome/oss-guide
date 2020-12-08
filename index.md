@@ -13,7 +13,6 @@ The guide for how our employees should use, contribute to, publish, promote, and
 | [Using](/oss-guide/docs/using/using.html) | Using open source code in platforms, products, and services |
 | [Contributing](/oss-guide/docs/contributing/contributing.html) | Contributing to existing open source projects |
 | [Publishing](/oss-guide/docs/publishing/publish.html) | Publishing new open source projects |
-| [Accepting](/oss-guide/docs/accepting/accepting.html) | Accepting code from your community |
 | [Resources](/oss-guide/docs/resources/resources.html) | Supplemental information and resources for the guide |
 
 ## Contribute

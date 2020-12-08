@@ -20,28 +20,23 @@ Also before publishing a new project, let's find out if we could contribute your
 1. Propose a name for your project. We'll explain why some names won't work.
 1. Add a [copyright notice](../resources/copyright.md) to the top of each source code file written by a Power employee.
 1. Prepare the repository for publication based on our [repository standard](../publishing/publishing-template/Spec-READ-AND-DELETE.html).
-1. Create an open source branch (or separate repository) on an internal GitHub Enterprise instance and grant us read access so we can review your code.
-1. Tell us where you want your project to be hosted once you publish it. See the list of [Power managed external resources](../resources/resources-external.md).
-1. Collect the list of employees who will need write access to the project once it's published
-1. Visit the Open Source Program Office page on our intranet and create a JIRA ticket to initiate the review request.
+1. Create a private branch (or separate repository) on Github and grant us read access so we can review your code.
+1. Collect the list of employees who will need write access to the project once it's published.
+1. Open a ticket to initiate the review request.
 
 ## [Step 2:](../publishing/approval.md) Get Approvals
 
 The SDRB handles most open source project approval steps for you. You can find the details on the [Approvals](../publishing/approval.md) page of this guide. Keep in mind there may be other approvals you should have in hand before coming to us, and these depend on the nature of the project you seek to publish.
 
-1. Make sure your manager has approved your plan to publish this project before you request a publication review. We have a step in the review process where we ask about other people at the company who may need to endorse this publication too.
-1. If your project contains a novel idea that might be eligible for a patent, review the patent submission process on the intranet. Please complete the patent process before we publish the code.
-1. There are certain cases where you will complete information related to export control. Please review the export control guide on the intranet to determine if your publication needs to go through this process.
-1. If your project contains data (presumably scrubbed, anonymized, etc.), please review the Global Privacy policies on the intranet and get their approval for publishing data sets.
+Make sure your team has approved your plan to publish this project before you request a publication review. We have a step in the review process where we ask about other people at the company who may need to endorse this publication too.
 
 ## [Step 3:](../publishing/release.md) Release and Publicize
 
-1. We'll create the external repository for your project and invite the internal team to the repo. We'll keep the repo private and we (or you) will configure the relevant settings, webhooks, etc.
+1. We'll create the public repository for your project and invite the internal team to the repo. We'll keep the repo private initially and we (or you) will configure the relevant settings, webhooks, etc.
 1. You push the code to the new repository. Make sure you have a description, topics, and website link (if applicable) on the project.
-1. You create a communications plan to promote your project in the external communication channels. We're here to help you promote your project by reviewing your blog posts, podcasts, or other presentation materials.
-1. Once we're staged, we'll perform a final review and then turn the external repo from private to public.
+1. You create a communications plan to promote your project in the external communication channels. We're here to help you promote your project by reviewing your blog posts or other presentation materials.
+1. Once we're staged, we'll perform a final review and then turn the repo from private to public.
 1. Based on the comms plan, we'll publicize your project and encourage collaborations and contributions.
-
 
 ### Process
 
@@ -50,5 +45,7 @@ We're here for the details:
 1. [Prepare Your Code](../publishing/prepare.md)
 1. [Get Approval](../publishing/approval.md)
 1. [Release and Publicize](../publishing/release.md)
+1. [Blogging about your projects](../publishing/blog.md)
+1. [Accepting contributions](../publishing/accepting.md)
 
 We encourage you to check out other [resources](../resources/resources.md) for additional helpful information.

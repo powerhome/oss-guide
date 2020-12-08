@@ -7,31 +7,27 @@ nav_order: 3
 
 # Publishing your Project: Step 3. Release and Publicize
 
-The Power Media Software Development Review Board (SDRB) is here to help developers at Power prepare code for external publication, promote projects, and build open source communities. Our process is designed to set your project up for success, and to comply with relevant company policies. In Step 2 we outlined the Open Source project publication [approval](../publishing/approval.md) process. This page highlights the process for releasing and publicizing your project.
+The Power Software Development Review Board (SDRB) is here to help developers at Power prepare code for external publication, promote projects, and build open source communities. Our process is designed to set your project up for success, and to comply with relevant company policies. In Step 2 we outlined the Open Source project publication [approval](../publishing/approval.md) process. This page highlights the process for releasing and publicizing your project.
 
 ## Publication Process
 
-1. The SDRB reviews projects during our open office hours (Monday mornings at 9:00 AM Pacific time). If the SDRB receives your project after 9:00 AM on Monday, we will review it the following Monday.
-1. If we approve your project for publication, we schedule your launch (typically on Tuesday at 11:00 AM Pacific time).
-1. If you'd like to schedule for a different day or time, indicate your preferred day and time in the ticket.
-1. At the designated time, we'll change the repo settings to public.
-1. After about two weeks, we'll review project settings and reduce admin permissions to write permissions for project committers. If you need admin rights, contact the SDRB.
+We'll change the repo settings to public (at a specified time if you'd like), review project settings and reduce admin permissions to write permissions for project committers. If you need admin rights, contact the SDRB.
 
 ## Promotion Process
 
-We will publish your blog post announcing the new project at the time specified by our communications plan. Some projects seek to soft-launch and be public for a few weeks before we blog about it. Other projects schedule their blog post and publication to be synchronized with a conference presentation or other relevant launch event. As long as we have a reviewed and approved communications plan in place, we can accomodate your needs.
+We will [publish your blog post announcing the new project](../publishing/blog.md) at the time specified by our communications plan. Some projects seek to soft-launch and be public for a few weeks before we blog about it. Other projects schedule their blog post and publication to be synchronized with a conference presentation or other relevant launch event. As long as we have a reviewed and approved communications plan in place, we can accomodate your needs.
 
-You may opt to set up a project website, documentation pages, or community group (e.g. using GoogleGroups, Gitter, Slack, etc.). We can provide you with our _Awesome Project website template_ on our intranet, which you can use to create your community site, but we expect that you and the community you develop will maintain the site. Note: before launching a community website, designing a project logo, or registering a project domain name, please work with the SDRB on a communications plan so that we can get the proper approval and registrations in place first.
+You may opt to set up a project website, documentation pages, or community group (e.g. using GoogleGroups, Gitter, Slack, etc.). We expect that you and the community will maintain any documentation or project website. Note: before launching a community website, designing a project logo, or registering a project domain name, please work with the SDRB on a communications plan so that we can get the proper approval and registrations in place first.
 
 ## First Quarter
 
-During the first three month after publication, we expect the project team to be active in promoting and supporting their new open source project. Projects that "dump and run" tarnish our reputation and make the developers on the team look like they only published code to add a bullet to a resume, but not to grow an open source community. New projects can generate a lot of positive buzz on social media communities, but this will only sustain if the project team is visible and active.
+During the first three months after publication, we expect the project team to be active in promoting and supporting their new open source project. Projects that "dump and run" tarnish our reputation and make the developers on the team look like they only published code to add a bullet to a resume, but not to grow an open source community. New projects can generate a lot of positive buzz on social media communities, but this will only sustain if the project team is visible and active.
 
-During the first three months, we'll help you promote your project with a blog post, invite you to talk about it on our podcast, and review your presentation for a relevant meetup or conference. After that, we'll make ourselves available to you for consultation about growing your community. If we have the resources and your project is on our tier 1 support list, we'll continue to support your community management needs.
+During the first three months, we'll help you promote your project with a blog post and review your presentation for a relevant meetup or conference. After that, we'll make ourselves available to you for consultation about growing your community.
 
 ## Ongoing Support from the SDRB
 
-In rare situations you may encounter a problem in your open source community that requires the SDRB to step in and help. Occasionally a community member may behave outside the bounds of our conduct code. A question may come up that requires our legal, PR, or security team to step in before we address it. In these and similar cases, please contact the SDRB right away so we can help. Also, we'll notify you if we get a security alert from GitHub or a Bug Bounty report related to your project. We expect that you will attend to these alerts quickly.
+In rare situations you may encounter a problem in your open source community that requires the SDRB to step in and help. Occasionally a community member may behave outside the bounds of our code of conduct. A question may come up that requires our legal, PR, or security team to step in before we address it. In these and similar cases, please contact the SDRB right away so we can help. Also, we'll notify you if we get a security alert from GitHub or a Bug Bounty report related to your project. We expect that you will attend to these alerts quickly.
 
 ## Accepting Contributions
 

@@ -14,7 +14,7 @@ The Power Software Development Review Board (SDRB) is here to help developers at
 We suggest thinking about your project name early in the process. Before you select a name read these suggestions to familiarize yourself with common naming issues. Note, we're not going to name your project for you, but we're going to block you from publishing a project with a name that doesn't work.
 
 - We prefer descriptive names that clearly convey your project's purpose.
-- Don't use a name that is protected by trademark. We'll connect you to our Trademark Search Request (TSR) process on the intranet if you are unsure about the protected status of the name you propose.
+- Don't use a name that is protected by trademark.
 - Don't use a Power brand name.
 - Avoid using a third-party brand name. In certain cases you can use them as descriptors. For example, you can use "Test Libraries for Java" but don't call something "Java Test Libraries."
 - Don't use cumbersome names. Name your project as if you expect it to be widely adopted.
@@ -22,9 +22,9 @@ We suggest thinking about your project name early in the process. Before you sel
 
 ## Select the Appropriate License
 
-The SDRB is here to help you license your project. For an overview of open source licenses, check out [What is an open source license](../resources/license.html)? We prefer publishing code under permissive open source licenses such as Apache License 2.0, BSD 3-Clause, or MIT. We publish under other licenses when the specifics of the project warrant their use. Specifically:
+The SDRB is here to help you license your project. For an overview of open source licenses, check out [What is an open source license](../resources/license.html)? We prefer publishing code under permissive open source licenses such as BSD 3-Clause, MIT or Apache License 2.0. We publish under other licenses when the specifics of the project warrant their use. Specifically:
 
-- We match the license to the project's needs. We usually consider the Apache 2.0 License as our go to option. When publishing code to certain communities, we may opt to use a license that is more consistent with the rest of the community. e.g. Node.JS projects tend to be licensed under the terms of the MIT license.
+- We match the license to the project's needs. We usually consider the MIT as our go to option. When publishing code to certain communities, we may opt to use a license that is more consistent with the rest of the community.
 - We may publish sample code under the zLib or MIT-0 licenses because they don't require users to carry attribution forward. This makes sense for sample code that users might include in their apps.
 - Some projects contain dependencies that require us to use a GPL license in the code. That's fine too.
 
@@ -46,7 +46,7 @@ This part can get surprisingly complicated, especially when it comes to code pro
 
 ## Scrub Your Repository
 
-1. Remove all internal dependencies or references in your code and documentation. This includes any references to server names, binaries, databases, or internal communication addresses. Remove references to internal directory conventions. Also remove comments or documentation references to JIRA links, internal code names, and anything else that wouldn't make sense to external developers.
+1. Remove all internal dependencies or references in your code and documentation. This includes any references to server names, binaries, databases, or internal communication addresses. Remove references to internal directory conventions. Also remove comments or documentation references to tickets, internal code names, and anything else that wouldn't make sense to external developers.
 1. Remove embarrassing content. e.g. curse words, references to poor coding practices ("stolen from"), jokes, and anything that would be embarrassing if it were made public.
 1. Perform any paranoid-required code review for vulnerabilities in static code or dependencies
 1. Remove all embedded credentials, passwords, or other secrets that may be in the code or a configuration file. (Note: we expect secrets to be managed outside of source code, but we ask you to check nonetheless. We'll check too.)
@@ -56,4 +56,4 @@ This part can get surprisingly complicated, especially when it comes to code pro
 Please refer to the [repository standard](../publishing/publishing-template/Spec-READ-AND-DELETE.html) requirements for repository meta-files. Then push your code to a repository or branch and grant us read access.
 
 ### Process
-Once you've finished these preparations, it's time to open a JIRA ticket with the SDRB and [get approval](../publishing/approval.html). You can also go back to the [Publishing Overview](../publishing/publish.html) page.
+Once you've finished these preparations, it's time to open a ticket with the SDRB and [get approval](../publishing/approval.html). You can also go back to the [Publishing Overview](../publishing/publish.html) page.

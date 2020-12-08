@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Code-of-Conduct Template
-nav_order: 3
+nav_order: 2
 parent: Publishing Template
 grand_parent: Publishing a New Open Source Project
 ---
@@ -46,7 +46,7 @@ Participants remain in good standing when they do not engage in misconduct or ha
 If you experience or witness misconduct, or have any other concerns about the conduct of members of this project, please report it by contacting our Response Team at oss@powerhrg.com who will handle your report with discretion. Your report should include:
 * Your preferred contact information. We cannot process anonymous reports.
 * Names (real or usernames) of those involved in the incident.
-* Your account of what occurred, and if the incident is ongoing. Please provide links to or transcripts of the publicly available records (e.g. a mailing list archive or a public IRC logger), so that we can review it.
+* Your account of what occurred, and if the incident is ongoing. Please provide links to or transcripts of the publicly available records (e.g. a mailing list archive or a public IRC logger, so that we can review it.
 * Any additional information that may be helpful to achieve resolution.
 
 After filing a report, a representative will contact you directly to review the incident and ask additional questions. If a member of the Power Home Remodeling Group Response Team is named in an incident report, that member will be recused from handling your incident. If the complaint originates from a member of the Response Team, it will be addressed by a different member of the Response Team. We will consider reports to be confidential for the purpose of protecting victims of abuse.

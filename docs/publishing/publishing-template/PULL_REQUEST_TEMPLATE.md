@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Pull Request Template
-nav_order: 7
+nav_order: 6
 parent: Publishing Template
 grand_parent: Publishing a New Open Source Project
 ---
@@ -17,7 +17,7 @@ _Describe your changes in detail._
 <!--- If suggesting a new feature or change, please discuss it in an issue first -->
 <!--- If fixing a bug, there should be an issue describing it with steps to reproduce -->
 <!--- Please link to any related issues here: -->
-_If suggesting a new feature or change, please discuss it in an issue first. 
+_If suggesting a new feature or change, please discuss it in an issue first.
 _If fixing a bug, there should be an issue describing it with steps to reproduce._
 _Please link to any related issues here:_
 
@@ -52,13 +52,14 @@ _Review the following points, and put an `x` in all the boxes that apply. If you
 - [ ] I have added tests to cover my changes.
 - [ ] All new and existing tests passed.
 
-## Declaration  
-I confirm that this contribution is made under an Apache 2.0 license and that I have the authority necessary to make this contribution on behalf of its copyright owner.
-
-OR
+## Declaration
 
 I confirm that this contribution is made under an MIT license and that I have the authority necessary to make this contribution on behalf of its copyright owner.
 
 OR
 
 I confirm that this contribution is made under a BSD license and that I have the authority necessary to make this contribution on behalf of its copyright owner.
+
+OR
+
+I confirm that this contribution is made under an Apache 2.0 license and that I have the authority necessary to make this contribution on behalf of its copyright owner.

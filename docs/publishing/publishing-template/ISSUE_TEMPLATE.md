@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Issue Template
-nav_order: 6
+nav_order: 5
 parent: Publishing Template
 grand_parent: Publishing a New Open Source Project
 ---
@@ -45,7 +45,7 @@ _How has this issue affected you? What are you trying to accomplish?_
 
 ## Your Environment
 <!--- Include as many relevant details about the environment you experienced the bug in -->
-_Include as many relevant details about the environment you experienced the bug in._
+_Include as many relevant detail as possible about the environment you experienced the bug in._
 * Version used:
 * Environment name and version (e.g. Chrome 39, node.js 5.4):
 * Operating System and version (desktop or mobile):
