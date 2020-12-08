@@ -23,7 +23,7 @@ Please refer to [the contributing.md file](https://github.com/powerhome/oss-guid
 
 Ben Langfeld: blangfeld@powerhrg.com
 
-This guide is built using GitHub Pages with Jekyll and the Just the Docs theme.
+This guide is built using GitHub Pages with Jekyll and the Just the Docs theme, and [hosted on Github](https://github.com/powerhome/oss-guide).
 
 ## License and Acknowledgements
 
