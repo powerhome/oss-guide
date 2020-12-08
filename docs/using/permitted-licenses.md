@@ -54,3 +54,7 @@ The following licenses are permitted for use for each category of use case. Any 
 | GNU General Public License version 3 | GPL-3.0 | ✅ | ✅ | 🚫 | 🚫 |
 | GNU Lesser General Public License version 2.1 | LGPL-2.1 | ✅ | ✅ | 🚫 | 🚫 |
 | GNU Lesser General Public License version 3 | LGPL-3.0 | ✅ | ✅ | 🚫 | 🚫 |
+
+## Enforcement
+
+Power projects which use open-source software should enforce the exclusive utilisation of [permitted licenses by use-case](../using/permitted-licenses.md). Further details on how to achieve this, including standardised tooling and configuration, are coming soon.

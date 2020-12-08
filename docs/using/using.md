@@ -48,7 +48,3 @@ Recently, there has been a new batch of "source available" licenses that operate
 ### Patent grants
 
 Power currently follows the understanding that, at least within the USA, typical open source licenses which grant the right to use the software carry an implicit patent grant along with them, and that explicit patent grants a-la the Apache License v2.0 are not required. See https://google.github.io/opencasebook/patents/ for more details on the distinction between explicit and implicit patent grants in OSS licenses and examples of relevant case law.
-
-### Enforcement
-
-Power projects which use open-source software should enforce the exclusive utilisation of [permitted licenses by use-case](../using/permitted-licenses.md). Further details on how to achieve this, including standardised tooling and configuration, are coming soon.
