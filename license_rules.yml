@@ -77,9 +77,3 @@
     :why: 'Permitted for all use cases: https://tech.powerhrg.com/oss-guide/docs/using/permitted-licenses.html#permitted-licenses'
     :versions: []
     :when: 2020-12-09 04:20:22.113540000 Z
-- - :permit
-  - MIT*
-  - :who: Ben Langfeld <blangfeld@powerhrg.com>
-    :why: This is an alias for MIT
-    :versions: []
-    :when: 2020-12-09 04:21:58.042237000 Z
