@@ -77,3 +77,9 @@
     :why: 'Permitted for all use cases: https://tech.powerhrg.com/oss-guide/docs/using/permitted-licenses.html#permitted-licenses'
     :versions: []
     :when: 2020-12-09 04:20:22.113540000 Z
+- - :permit
+  - 0BSD
+  - :who: Ben Langfeld <blangfeld@powerhrg.com>
+    :why: 'Permitted for all use cases: https://tech.powerhrg.com/oss-guide/docs/using/permitted-licenses.html#permitted-licenses'
+    :versions: []
+    :when: 2020-12-09 04:49:05.108205000 Z
