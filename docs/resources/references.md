@@ -14,6 +14,7 @@ The following is a list of interesting references which formed part of the resea
 * https://github.com/powerhome/rfcs/blob/master/0061-open-source-license-compliance.md
 
 ### Open source fundamentals
+
 * https://compliance.linuxfoundation.org/
 * https://www.openchainproject.org/
 * https://resources.whitesourcesoftware.com/blog-whitesource/the-saas-loophole-in-gpl-open-source-licenses
@@ -27,6 +28,8 @@ The following is a list of interesting references which formed part of the resea
 * https://training.linuxfoundation.org/training/open-source-licensing-basics-for-software-developers/
 * https://training.linuxfoundation.org/training/fundamentals-of-professional-open-source-management/
 * https://www.linuxfoundation.org/resources/open-source-guides/
+* https://tldrlegal.com/
+* https://choosealicense.com/
 
 ### Tools
 

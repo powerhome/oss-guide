@@ -1,0 +1,55 @@
+---
+- - :permit
+  - Apache-2.0
+  - :who: Ben Langfeld <blangfeld@powerhrg.com>
+    :why: 'Permitted for all use cases: https://tech.powerhrg.com/oss-guide/docs/using/permitted-licenses.html#permitted-licenses'
+    :versions: []
+    :when: 2020-12-08 18:47:29.377039600 Z
+- - :permit
+  - BSD-3-Clause
+  - :who: Ben Langfeld <blangfeld@powerhrg.com>
+    :why: 'Permitted for all use cases: https://tech.powerhrg.com/oss-guide/docs/using/permitted-licenses.html#permitted-licenses'
+    :versions: []
+    :when: 2020-12-08 18:47:30.491604100 Z
+- - :permit
+  - BSD-2-Clause
+  - :who: Ben Langfeld <blangfeld@powerhrg.com>
+    :why: 'Permitted for all use cases: https://tech.powerhrg.com/oss-guide/docs/using/permitted-licenses.html#permitted-licenses'
+    :versions: []
+    :when: 2020-12-08 18:47:31.538336400 Z
+- - :permit
+  - CDDL-1.0
+  - :who: Ben Langfeld <blangfeld@powerhrg.com>
+    :why: 'Permitted for all use cases: https://tech.powerhrg.com/oss-guide/docs/using/permitted-licenses.html#permitted-licenses'
+    :versions: []
+    :when: 2020-12-08 18:47:32.659887500 Z
+- - :permit
+  - MIT
+  - :who: Ben Langfeld <blangfeld@powerhrg.com>
+    :why: 'Permitted for all use cases: https://tech.powerhrg.com/oss-guide/docs/using/permitted-licenses.html#permitted-licenses'
+    :versions: []
+    :when: 2020-12-08 18:47:33.704124300 Z
+- - :permit
+  - MPL-1.0
+  - :who: Ben Langfeld <blangfeld@powerhrg.com>
+    :why: 'Permitted for all use cases: https://tech.powerhrg.com/oss-guide/docs/using/permitted-licenses.html#permitted-licenses'
+    :versions: []
+    :when: 2020-12-08 18:47:34.767471700 Z
+- - :permit
+  - MPL-1.1
+  - :who: Ben Langfeld <blangfeld@powerhrg.com>
+    :why: 'Permitted for all use cases: https://tech.powerhrg.com/oss-guide/docs/using/permitted-licenses.html#permitted-licenses'
+    :versions: []
+    :when: 2020-12-08 18:47:35.801956900 Z
+- - :permit
+  - MPL-2.0
+  - :who: Ben Langfeld <blangfeld@powerhrg.com>
+    :why: 'Permitted for all use cases: https://tech.powerhrg.com/oss-guide/docs/using/permitted-licenses.html#permitted-licenses'
+    :versions: []
+    :when: 2020-12-08 18:47:39.960340600 Z
+- - :restrict
+  - AGPL-3.0
+  - :who: Ben Langfeld <blangfeld@powerhrg.com>
+    :why: 'Restricted for all use cases: https://tech.powerhrg.com/oss-guide/docs/using/permitted-licenses.html#permitted-licenses'
+    :versions: []
+    :when: 2020-12-08 18:53:23.686156000 Z
