@@ -42,6 +42,7 @@ The following licenses are permitted for use for each category of use case. Any 
 | License | SPDX Identifier | Internal use | SaaS back-end | SaaS front-end | Mobile / Desktop App |
 | ------- | --------------- | ------------ | ------------- | -------------- | -------------------- |
 | Apache License 2.0 | Apache-2.0 | ✅ | ✅ | ✅ | ✅ |
+| Artistic License 2.0 | Artistic-2.0 | ✅ | ✅ | 🚫 | 🚫 |
 | Berkeley Software Distribution (BSD) 3-clause | BSD-3-Clause | ✅ | ✅ | ✅ | ✅ |
 | Berkeley Software Distribution (BSD) 2-clause | BSD-2-Clause | ✅ | ✅ | ✅ | ✅ |
 | Common Development and Distribution License 1.0 | CDDL-1.0 | ✅ | ✅ | ✅ | ✅ |
