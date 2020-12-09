@@ -66,4 +66,32 @@ The following licenses are permitted for use for each category of use case. Any 
 
 ## Enforcement
 
-Power projects which use open-source software should enforce the exclusive utilisation of [permitted licenses by use-case](../using/permitted-licenses.md). Further details on how to achieve this, including standardised tooling and configuration, are coming soon.
+Power projects which use open-source software should enforce the exclusive utilisation of permitted licenses by use-case using [license_finder](https://github.com/pivotal/LicenseFinder). Check out the project README to understand how to begin using it. In order to get started with the list of permitted licenses, inherit from the standard Power configuration:
+
+```shell
+license_finder inherited_decisions add https://raw.githubusercontent.com/powerhome/oss-guide/e25582578353d209f22192053303656f15876e1c/license_rules.yml
+```
+
+Check which dependencies are not permitted by the standard configuration:
+
+```shell
+license_finder action_items
+```
+
+You should run this check as part of your development workflow when modifying dependencies, as well as in your CI builds. See [an example of how to achieve this](https://github.com/powerhome/milano/pull/506).
+
+### Conditionally permitted licenses
+
+If a license on the above list is permitted only for certain use-cases, you will have to manually mark a dependency as allowed based on the use-case within your application. If in doubt, check with the SDRB, and then mark the dependency allowed, eg:
+
+```shell
+license_finder approvals add redis-objects --version "1.4.3" --who "Ben Langfeld <blangfeld@powerhrg.com>" --why "SaaS backend use-case permitted w/ Artistic-2.0 license by https://tech.powerhrg.com/oss-guide/docs/using/permitted-licenses.html#permitted-licenses"
+```
+
+### Incorrectly identified licenses
+
+If a dependency's license is not identified, or is identified incorrectly, you can specify it manually, eg:
+
+```shell
+license_finder licenses add unf BSD-2-Clause --who "Ben Langfeld <blangfeld@powerhrg.com>" --why "https://github.com/knu/ruby-unf/pull/12"
+```
