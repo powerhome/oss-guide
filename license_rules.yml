@@ -65,3 +65,21 @@
     :why: 'Permitted for all use cases: https://tech.powerhrg.com/oss-guide/docs/using/permitted-licenses.html#permitted-licenses'
     :versions: []
     :when: 2020-12-09 04:17:29.993779000 Z
+- - :permit
+  - CC-BY-4.0
+  - :who: Ben Langfeld <blangfeld@powerhrg.com>
+    :why: 'Permitted for all use cases: https://tech.powerhrg.com/oss-guide/docs/using/permitted-licenses.html#permitted-licenses'
+    :versions: []
+    :when: 2020-12-09 04:20:14.149327000 Z
+- - :permit
+  - CC-BY-3.0
+  - :who: Ben Langfeld <blangfeld@powerhrg.com>
+    :why: 'Permitted for all use cases: https://tech.powerhrg.com/oss-guide/docs/using/permitted-licenses.html#permitted-licenses'
+    :versions: []
+    :when: 2020-12-09 04:20:22.113540000 Z
+- - :permit
+  - MIT*
+  - :who: Ben Langfeld <blangfeld@powerhrg.com>
+    :why: This is an alias for MIT
+    :versions: []
+    :when: 2020-12-09 04:21:58.042237000 Z

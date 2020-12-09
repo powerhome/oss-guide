@@ -45,6 +45,8 @@ The following licenses are permitted for use for each category of use case. Any 
 | Berkeley Software Distribution (BSD) 3-clause | BSD-3-Clause | ✅ | ✅ | ✅ | ✅ |
 | Berkeley Software Distribution (BSD) 2-clause | BSD-2-Clause | ✅ | ✅ | ✅ | ✅ |
 | Common Development and Distribution License 1.0 | CDDL-1.0 | ✅ | ✅ | ✅ | ✅ |
+| Creative Commons Attribution 3.0 International | CC-BY-3.0 | ✅ | ✅ | ✅ | ✅ |
+| Creative Commons Attribution 4.0 International | CC-BY-4.0 | ✅ | ✅ | ✅ | ✅ |
 | Creative Commons Zero v 1.0 Universal | CC0-1.0 | ✅ | ✅ | ✅ | ✅ |
 | ISC License | ISC | ✅ | ✅ | ✅ | ✅ |
 | MIT License | MIT | ✅ | ✅ | ✅ | ✅ |
