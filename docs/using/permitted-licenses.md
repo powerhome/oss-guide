@@ -60,6 +60,7 @@ The following licenses are permitted for use for each category of use case. Any 
 | Mozilla Public License 2.0 | MPL-2.0 | ✅ | ✅ | ✅ | ✅ |
 | The Unlicense | Unlicense | ✅ | ✅ | ✅ | ✅ |
 | Zero-Clause BSD License | 0BSD | ✅ | ✅ | ✅ | ✅ |
+| The zlib/libpng License | Zlib | ✅ | ✅ | ✅ | ✅ |
 
 ## Enforcement
 
