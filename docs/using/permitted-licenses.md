@@ -58,6 +58,7 @@ The following licenses are permitted for use for each category of use case. Any 
 | Mozilla Public License 1.0 | MPL-1.0 | ✅ | ✅ | ✅ | ✅ |
 | Mozilla Public License 1.1 | MPL-1.1 | ✅ | ✅ | ✅ | ✅ |
 | Mozilla Public License 2.0 | MPL-2.0 | ✅ | ✅ | ✅ | ✅ |
+| Ruby License | Ruby | ✅ | ✅ | ✅ | ✅ |
 | The Unlicense | Unlicense | ✅ | ✅ | ✅ | ✅ |
 | Zero-Clause BSD License | 0BSD | ✅ | ✅ | ✅ | ✅ |
 | The zlib/libpng License | Zlib | ✅ | ✅ | ✅ | ✅ |
