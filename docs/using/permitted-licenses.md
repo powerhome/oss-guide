@@ -42,19 +42,56 @@ The following licenses are permitted for use for each category of use case. Any 
 | License | SPDX Identifier | Internal use | SaaS back-end | SaaS front-end | Mobile / Desktop App |
 | ------- | --------------- | ------------ | ------------- | -------------- | -------------------- |
 | Apache License 2.0 | Apache-2.0 | ✅ | ✅ | ✅ | ✅ |
+| Artistic License 2.0 | Artistic-2.0 | ✅ | ✅ | 🚫 | 🚫 |
 | Berkeley Software Distribution (BSD) 3-clause | BSD-3-Clause | ✅ | ✅ | ✅ | ✅ |
 | Berkeley Software Distribution (BSD) 2-clause | BSD-2-Clause | ✅ | ✅ | ✅ | ✅ |
 | Common Development and Distribution License 1.0 | CDDL-1.0 | ✅ | ✅ | ✅ | ✅ |
-| MIT License | MIT | ✅ | ✅ | ✅ | ✅ |
-| Mozilla Public License 1.0 | MPL-1.0 | ✅ | ✅ | ✅ | ✅ |
-| Mozilla Public License 1.1 | MPL-1.1 | ✅ | ✅ | ✅ | ✅ |
-| Mozilla Public License 2.0 | MPL-2.0 | ✅ | ✅ | ✅ | ✅ |
+| Creative Commons Attribution 3.0 International | CC-BY-3.0 | ✅ | ✅ | ✅ | ✅ |
+| Creative Commons Attribution 4.0 International | CC-BY-4.0 | ✅ | ✅ | ✅ | ✅ |
+| Creative Commons Zero v 1.0 Universal | CC0-1.0 | ✅ | ✅ | ✅ | ✅ |
 | GNU Affero General Public License version 3 | AGPL-3.0 | 🚫 | 🚫 | 🚫 | 🚫 |
 | GNU General Public License version 2 | GPL-2.0 | ✅ | ✅ | 🚫 | 🚫 |
 | GNU General Public License version 3 | GPL-3.0 | ✅ | ✅ | 🚫 | 🚫 |
 | GNU Lesser General Public License version 2.1 | LGPL-2.1 | ✅ | ✅ | 🚫 | 🚫 |
 | GNU Lesser General Public License version 3 | LGPL-3.0 | ✅ | ✅ | 🚫 | 🚫 |
+| ISC License | ISC | ✅ | ✅ | ✅ | ✅ |
+| MIT License | MIT | ✅ | ✅ | ✅ | ✅ |
+| Mozilla Public License 1.0 | MPL-1.0 | ✅ | ✅ | ✅ | ✅ |
+| Mozilla Public License 1.1 | MPL-1.1 | ✅ | ✅ | ✅ | ✅ |
+| Mozilla Public License 2.0 | MPL-2.0 | ✅ | ✅ | ✅ | ✅ |
+| Ruby License | Ruby | ✅ | ✅ | ✅ | ✅ |
+| The Unlicense | Unlicense | ✅ | ✅ | ✅ | ✅ |
+| Zero-Clause BSD License | 0BSD | ✅ | ✅ | ✅ | ✅ |
+| The zlib/libpng License | Zlib | ✅ | ✅ | ✅ | ✅ |
 
 ## Enforcement
 
-Power projects which use open-source software should enforce the exclusive utilisation of [permitted licenses by use-case](../using/permitted-licenses.md). Further details on how to achieve this, including standardised tooling and configuration, are coming soon.
+Power projects which use open-source software should enforce the exclusive utilisation of permitted licenses by use-case using [license_finder](https://github.com/pivotal/LicenseFinder). Check out the project README to understand how to begin using it. In order to get started with the list of permitted licenses, inherit from the standard Power configuration:
+
+```shell
+license_finder inherited_decisions add https://raw.githubusercontent.com/powerhome/oss-guide/e25582578353d209f22192053303656f15876e1c/license_rules.yml
+```
+
+Check which dependencies are not permitted by the standard configuration:
+
+```shell
+license_finder action_items
+```
+
+You should run this check as part of your development workflow when modifying dependencies, as well as in your CI builds. See [an example of how to achieve this](https://github.com/powerhome/milano/pull/506).
+
+### Conditionally permitted licenses
+
+If a license on the above list is permitted only for certain use-cases, you will have to manually mark a dependency as allowed based on the use-case within your application. If in doubt, check with the SDRB, and then mark the dependency allowed, eg:
+
+```shell
+license_finder approvals add redis-objects --version "1.4.3" --who "Ben Langfeld <blangfeld@powerhrg.com>" --why "SaaS backend use-case permitted w/ Artistic-2.0 license by https://tech.powerhrg.com/oss-guide/docs/using/permitted-licenses.html#permitted-licenses"
+```
+
+### Incorrectly identified licenses
+
+If a dependency's license is not identified, or is identified incorrectly, you can specify it manually, eg:
+
+```shell
+license_finder licenses add unf BSD-2-Clause --who "Ben Langfeld <blangfeld@powerhrg.com>" --why "https://github.com/knu/ruby-unf/pull/12"
+```
