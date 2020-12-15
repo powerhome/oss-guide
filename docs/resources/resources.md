@@ -11,7 +11,7 @@ This page in an index of common questions and topics related to the SDRB's servi
 
 Be inquisitive. We welcome your questions and are here to help. One way we help is by publishing this guide, so please review it, as you might find the answers here. If you think the answer is not going to work for you, ask us. Maybe you are dealing with an exceptional case, maybe something changed.
 
-## Can I sse open source code?
+## Can I use open source code?
 
 If someone has already solved a problem, better to leverage that than to create a new instance of the solution that we have to manage on our own. However, just because code is open does not mean it's good. You are responsible for the code in your app. We'll help address questions you have about the open source license, give you suggestions about how to find a healthy and well managed project to use, and connect you with internal teams who are using similar code (so you can leverage their work too). Start by learning more about [using open source code](../using/using.md) in your code projects.
 
