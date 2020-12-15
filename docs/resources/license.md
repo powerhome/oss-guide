@@ -21,7 +21,7 @@ There are times we are required to, or it is ideal to, license code under other 
 
 ### Are All Open Source Licenses Alike?
 
-All open source licenses grant rights that comply with the [open source definition](https://opensource.org/osd). But they differ in important ways from each other. We generally categorize licenses as being _permissive_ or _restrictive_. The former are relatively easy to comply with, the latter could impose more complications under many circumstances. There will be instances where we will or will not _use_ code based on the license. There will be instances where we will or will not _contribute to a project_ based on the license. Situational details matter such that we'll say yes in some cases, no in others. The SDRB's role is in part to help educate our developers about these issues, but ultimately to determine a proper course of action for a given situation. Our consistent message to developers: *please ask whenever you see something that you are not 100% sure about. We will help inform and decide what makes the most sense in a given situation.*
+All open source licenses grant rights that comply with the [open source definition](https://opensource.org/osd). But they differ in important ways from each other. We generally categorize licenses as being _permissive_ or _restrictive_. The former are relatively easy to comply with, the latter could impose more complications under many circumstances. There will be instances where we will or will not _use_ code based on the license. There will be instances where we will or will not _contribute to a project_ based on the license. Situational details matter such that we'll say yes in some cases, no in others. The SDRT's role is in part to help educate our developers about these issues, but ultimately to determine a proper course of action for a given situation. Our consistent message to developers: *please ask whenever you see something that you are not 100% sure about. We will help inform and decide what makes the most sense in a given situation.*
 
 ### Are Any Licenses _Not_ Open Source?
 
@@ -33,7 +33,7 @@ Yes. The most common are commercial licenses that grant limited permissions in r
 * The [Unlicense](https://unlicense.org/) is not actually a license, but a declaration of Public Domain status.
 * Mock licenses are written to mock the idea of open source licenses. These are uncommon and in most cases do not comply with OSD. Moreover, they are typically poorly drafted from a legal perspective. [Beerware](https://fedoraproject.org/wiki/Licensing/Beerware) is a relatively old example. [WTFPL](http://www.wtfpl.net/) comes up once in a while, shocking a unsuspecting reviewer with a curse word. The [Chicken Dance License](https://github.com/supertunaman/cdl) captures this category well.
 
-As with any license questions (especially those not approved by OSI), please ask the SDRB for guidance about the license terms and how it impacts your use of or contributions to the project. We will address each question in context of the specific use case.
+As with any license questions (especially those not approved by OSI), please ask the SDRT for guidance about the license terms and how it impacts your use of or contributions to the project. We will address each question in context of the specific use case.
 
 ### What About a Licence for Content?
 

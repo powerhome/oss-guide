@@ -7,7 +7,7 @@ nav_order: 1
 
 # Publishing your Project: Step 1. Prepare Your Request
 
-The Power Software Development Review Board (SDRB) is here to help developers at Power prepare code for external publication, promote projects, and build open source communities. Our process is designed to set your project up for success, and to comply with relevant company policies. This page highlights the initial steps you'll take when it comes to publishing company code as an open source project, namely preparing to make your publication request.
+The Power Software Development Review Team (SDRT) is here to help developers at Power prepare code for external publication, promote projects, and build open source communities. Our process is designed to set your project up for success, and to comply with relevant company policies. This page highlights the initial steps you'll take when it comes to publishing company code as an open source project, namely preparing to make your publication request.
 
 ## Name Your Project
 
@@ -22,7 +22,7 @@ We suggest thinking about your project name early in the process. Before you sel
 
 ## Select the Appropriate License
 
-The SDRB is here to help you license your project. For an overview of open source licenses, check out [What is an open source license](../resources/license.html)? We prefer publishing code under permissive open source licenses such as BSD 3-Clause, MIT or Apache License 2.0. We publish under other licenses when the specifics of the project warrant their use. Specifically:
+The SDRT is here to help you license your project. For an overview of open source licenses, check out [What is an open source license](../resources/license.html)? We prefer publishing code under permissive open source licenses such as BSD 3-Clause, MIT or Apache License 2.0. We publish under other licenses when the specifics of the project warrant their use. Specifically:
 
 - We match the license to the project's needs. We usually consider the MIT as our go to option. When publishing code to certain communities, we may opt to use a license that is more consistent with the rest of the community.
 - We may publish sample code under the zLib or MIT-0 licenses because they don't require users to carry attribution forward. This makes sense for sample code that users might include in their apps.
@@ -56,4 +56,4 @@ This part can get surprisingly complicated, especially when it comes to code pro
 Please refer to the [repository standard](../publishing/publishing-template/Spec-READ-AND-DELETE.html) requirements for repository meta-files. Then push your code to a repository or branch and grant us read access.
 
 ### Process
-Once you've finished these preparations, it's time to open a ticket with the SDRB and [get approval](../publishing/approval.html). You can also go back to the [Publishing Overview](../publishing/publish.html) page.
+Once you've finished these preparations, it's time to open a ticket with the SDRT and [get approval](../publishing/approval.html). You can also go back to the [Publishing Overview](../publishing/publish.html) page.

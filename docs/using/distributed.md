@@ -15,7 +15,7 @@ Most open source licenses require that you give credit by reprinting the license
 
 ## JavaScript
 
-JavaScript is a web technology but it is distributed to the browser client. Node.JS is JavaScript based technology that runs on servers, except in cases like the Electron framework where it also runs on the client. Nearly all the JavaScript code we encounter is licensed under MIT or BSD terms. These are permissive and only require keeping the attribution that's already in the script code. Contact the SDRB if you wish to use JavaScript that is published under any non-permissive license.
+JavaScript is a web technology but it is distributed to the browser client. Node.JS is JavaScript based technology that runs on servers, except in cases like the Electron framework where it also runs on the client. Nearly all the JavaScript code we encounter is licensed under MIT or BSD terms. These are permissive and only require keeping the attribution that's already in the script code. Contact the SDRT if you wish to use JavaScript that is published under any non-permissive license.
 
 License compliance is easy with JavaScript since users can see and modify the script in their browser cache. We are required to retain license and copyright information in code we distribute. As long as you don't remove the text, you meet this obligation. Technical note: Minification of JavaScript code will often remove the license header text. We ask that you preserve license text in headers of JavaScript files that you minify.
 
@@ -29,4 +29,4 @@ While publishing desktop apps is less common these days, if we publish them, we 
 
 ## Server-installed or Embedded Apps
 
-Complying with installed open source distributions gets complicated. If you are working on a project that embeds code onto a hardware device, contact the SDRB [via Connect](https://nitro.powerhrg.com/connect#rooms/4082) so that we can work with you on the compliance processes you'll need to have in place before product launch is approved.
+Complying with installed open source distributions gets complicated. If you are working on a project that embeds code onto a hardware device, contact the SDRT [via Connect](https://nitro.powerhrg.com/connect#rooms/4082) so that we can work with you on the compliance processes you'll need to have in place before product launch is approved.

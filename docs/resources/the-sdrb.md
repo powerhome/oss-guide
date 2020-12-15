@@ -1,6 +1,6 @@
 ---
 layout: default
-title: The Software Development Review Board
+title: The Software Development Review Team
 parent: Resources to Address Common Questions
 nav_order: 1
 ---
@@ -29,9 +29,9 @@ The responsibilities of a program office in this area includes:
 * Facilitating the effective use of open source in commercial products and services
 * Engaging with developer communities to encourage adoption of strategic open source projects.
 
-## The Power Software Development Review Board (SDRB)
+## The Power Software Development Review Team (SDRT)
 
-At Power, among other responsibilities, our Software Development Review Board (SDRB) plays the OSPO role and helps developers at our company successfully use, contribute, and publish open source projects. Our SDRB focuses on the following OSS-related areas:
+At Power, among other responsibilities, our Software Development Review Team (SDRT) plays the OSPO role and helps developers at our company successfully use, contribute, and publish open source projects. Our SDRT focuses on the following OSS-related areas:
 
 * **Publication Review and Support** — We review projects and stage them for open source publication on a branded and managed GitHub organization.
 * **License Compliance** — We run a scan process during the build process on our mobile apps and distributed products to prepare open source display credits and ensure our apps contain exactly what we want them to contain, and nothing else.

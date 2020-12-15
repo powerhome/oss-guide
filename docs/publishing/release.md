@@ -7,17 +7,17 @@ nav_order: 3
 
 # Publishing your Project: Step 3. Release and Publicize
 
-The Power Software Development Review Board (SDRB) is here to help developers at Power prepare code for external publication, promote projects, and build open source communities. Our process is designed to set your project up for success, and to comply with relevant company policies. In Step 2 we outlined the Open Source project publication [approval](../publishing/approval.md) process. This page highlights the process for releasing and publicizing your project.
+The Power Software Development Review Team (SDRT) is here to help developers at Power prepare code for external publication, promote projects, and build open source communities. Our process is designed to set your project up for success, and to comply with relevant company policies. In Step 2 we outlined the Open Source project publication [approval](../publishing/approval.md) process. This page highlights the process for releasing and publicizing your project.
 
 ## Publication Process
 
-We'll change the repo settings to public (at a specified time if you'd like), review project settings and reduce admin permissions to write permissions for project committers. If you need admin rights, contact the SDRB.
+We'll change the repo settings to public (at a specified time if you'd like), review project settings and reduce admin permissions to write permissions for project committers. If you need admin rights, contact the SDRT.
 
 ## Promotion Process
 
 We will [publish your blog post announcing the new project](../publishing/blog.md) at the time specified by our communications plan. Some projects seek to soft-launch and be public for a few weeks before we blog about it. Other projects schedule their blog post and publication to be synchronized with a conference presentation or other relevant launch event. As long as we have a reviewed and approved communications plan in place, we can accomodate your needs.
 
-You may opt to set up a project website, documentation pages, or community group (e.g. using GoogleGroups, Gitter, Slack, etc.). We expect that you and the community will maintain any documentation or project website. Note: before launching a community website, designing a project logo, or registering a project domain name, please work with the SDRB on a communications plan so that we can get the proper approval and registrations in place first.
+You may opt to set up a project website, documentation pages, or community group (e.g. using GoogleGroups, Gitter, Slack, etc.). We expect that you and the community will maintain any documentation or project website. Note: before launching a community website, designing a project logo, or registering a project domain name, please work with the SDRT on a communications plan so that we can get the proper approval and registrations in place first.
 
 ## First Quarter
 
@@ -25,9 +25,9 @@ During the first three months after publication, we expect the project team to b
 
 During the first three months, we'll help you promote your project with a blog post and review your presentation for a relevant meetup or conference. After that, we'll make ourselves available to you for consultation about growing your community.
 
-## Ongoing Support from the SDRB
+## Ongoing Support from the SDRT
 
-In rare situations you may encounter a problem in your open source community that requires the SDRB to step in and help. Occasionally a community member may behave outside the bounds of our code of conduct. A question may come up that requires our legal, PR, or security team to step in before we address it. In these and similar cases, please contact the SDRB right away so we can help. Also, we'll notify you if we get a security alert from GitHub or a Bug Bounty report related to your project. We expect that you will attend to these alerts quickly.
+In rare situations you may encounter a problem in your open source community that requires the SDRT to step in and help. Occasionally a community member may behave outside the bounds of our code of conduct. A question may come up that requires our legal, PR, or security team to step in before we address it. In these and similar cases, please contact the SDRT right away so we can help. Also, we'll notify you if we get a security alert from GitHub or a Bug Bounty report related to your project. We expect that you will attend to these alerts quickly.
 
 ## Accepting Contributions
 
@@ -37,7 +37,7 @@ After you have published your project, it's time to start accepting contribution
 - If you use our PULL_REQUEST_TEMPLATE, contributors do not have to sign a CLA with us. The template contains what is, in effect, a DCO.
 - To encourage positive community interactions, we recommend you follow the [Issue Triage](../resources/issue-triage.md) guidelines.
 
-When projects first launch we expect all the contributors and committers on the project are Power employees. We believe one measure of success is how many contributors are not employees. We encourage you to see and support external contributors to our projects. Contact the SDRB to grant committer access. We will include Power employees in the GitHub org and will specify non-employees as external collaborators.
+When projects first launch we expect all the contributors and committers on the project are Power employees. We believe one measure of success is how many contributors are not employees. We encourage you to see and support external contributors to our projects. Contact the SDRT to grant committer access. We will include Power employees in the GitHub org and will specify non-employees as external collaborators.
 
 ## Project Hospice
 

@@ -21,7 +21,7 @@ So what normally goes into the copyright declaration? Either:
 * A person’s name, for personally owned code not assigned to the company.
 * An entity name, for code assigned to an entity.
 
-Unless there are special circumstances regarding the ownership of the code, code we publish from the SDRB will have the company name in the copyright declaration.
+Unless there are special circumstances regarding the ownership of the code, code we publish from the SDRT will have the company name in the copyright declaration.
 
 The **project name** _could_ include a company name, but this is less common and often not advised. If we wanted people to know a project is ours, we _could_ put our name in the project name, either explicitly or implicitly. For example: years ago Yahoo published YUI, the (`Yahoo User Interface`) as a JavaScript framework for people to use on their websites (that had nothing to do with Yahoo’s sites. Current JavaScript frameworks don’t carry a company name in their titles. Frankly it probably turns people away from a project making it seem that the company seeks to control it.
 

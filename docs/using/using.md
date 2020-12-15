@@ -13,7 +13,7 @@ This page highlights issues development teams need to know about using open sour
 
 Open source code is out there and available for you to use. It's better for you to use existing, widely-adopted open source code rather than reinventing a solution to a problem that’s already been solved. That assumes that the open source project you found is good code. Also, there are legal implications any time you use someone else’s code.
 
-As a developer on a project, it’s your responsibility to make sure the code you use solves the intended problem. Be sure to consult with your team and the SDRB if necessary to determine if you should use open source code. The SDRB is here to help you with licensing questions. If you’re not sure about the implications of using open source code, contact the SDRB [via Connect](https://nitro.powerhrg.com/connect#rooms/4082).
+As a developer on a project, it’s your responsibility to make sure the code you use solves the intended problem. Be sure to consult with your team and the SDRT if necessary to determine if you should use open source code. The SDRT is here to help you with licensing questions. If you’re not sure about the implications of using open source code, contact the SDRT [via Connect](https://nitro.powerhrg.com/connect#rooms/4082).
 
 ## The Open Source License
 
@@ -43,7 +43,7 @@ Speaking of exceptional situations, please read our guidance on the [AGPL Licens
 
 There are many types of licenses that grant permission to use the code, but contain terms that are not compliant with or were not reviewed by the Open Source Initiative (OSI). Some of these licenses are fairly low risk to us, but others are not. For example, CC-0, a declaration of public domain, Beerware, and even WTFPL on code sends the message that we're going to be OK using the code, whereas other licenses pose interesting considerations and risks because they are designed to restrict certain usages or users. Technically speaking, these are not Open Source licenses since they do not comply with the OSI definition of Open Source.
 
-Recently, there has been a new batch of "source available" licenses that operate like open source for most people, or that eventually become open source, or that discriminate against some people or businesses. When it comes to anything like this, please ask the SDRB for guidance.
+Recently, there has been a new batch of "source available" licenses that operate like open source for most people, or that eventually become open source, or that discriminate against some people or businesses. When it comes to anything like this, please ask the SDRT for guidance.
 
 ### Patent grants
 

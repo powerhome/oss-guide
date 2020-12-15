@@ -7,11 +7,11 @@ nav_order: 2
 
 # Publishing Your Project: Step 2. Getting Approval
 
-The Power Software Development Review Board (SDRB) is here to help developers at Power prepare code for external publication, promote projects, and build open source communities. Our process is designed to set your project up for success, and to comply with relevant company policies. In Step 1, we show you how to [prepare your project](../publishing/prepare.md) to request SDRB approval. This page highlights the questions we will review with you to secure an approval for your publication request.
+The Power Software Development Review Team (SDRT) is here to help developers at Power prepare code for external publication, promote projects, and build open source communities. Our process is designed to set your project up for success, and to comply with relevant company policies. In Step 1, we show you how to [prepare your project](../publishing/prepare.md) to request SDRT approval. This page highlights the questions we will review with you to secure an approval for your publication request.
 
 ## Prepare Your Project Information
 
-Include the answers to the following questions into a ticket assigned to the SDRB.
+Include the answers to the following questions into a ticket assigned to the SDRT.
 
  1. Provide a repo link for the project you want to publish.
  1. Provide us (or link to) open source dependencies (and their licenses).
@@ -35,4 +35,4 @@ Some projects are very straightforward and we'll approve them quickly. Our dilig
 
 ### Process
 
-Once you have SDRB approval, proceed to [release](../publishing/release.md) your project. You can go back and review the [prepare your request](../publishing/prepare.md) step, or return to the [Publishing Overview](../publishing/publish.md).
+Once you have SDRT approval, proceed to [release](../publishing/release.md) your project. You can go back and review the [prepare your request](../publishing/prepare.md) step, or return to the [Publishing Overview](../publishing/publish.md).

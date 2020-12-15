@@ -11,7 +11,7 @@ The licenses permitted for use in a particular software project depend heavily o
 
 ## Use cases
 
-Typical use cases are defined as following. If you are not certain which cateogy your use case falls into, or indeed if it falls into any, contact the SDRB for advice.
+Typical use cases are defined as following. If you are not certain which cateogy your use case falls into, or indeed if it falls into any, contact the SDRT for advice.
 
 ### Internal use
 
@@ -37,7 +37,7 @@ This use case covers software which is delivered in binary format for execution 
 
 ## Permitted licenses
 
-The following licenses are permitted for use for each category of use case. Any licenses not on this list are not yet permitted for use at Power, but will be considered for inclusion in this list on request to the SDRB. If you propose to use an open source project licensed under any license not present in this list, contact the SDRB. If you propose to use an open source project in a way not permitted by this combination of license and use case, contact the SDRB to discuss the available options.
+The following licenses are permitted for use for each category of use case. Any licenses not on this list are not yet permitted for use at Power, but will be considered for inclusion in this list on request to the SDRT. If you propose to use an open source project licensed under any license not present in this list, contact the SDRT. If you propose to use an open source project in a way not permitted by this combination of license and use case, contact the SDRT to discuss the available options.
 
 | License | SPDX Identifier | Internal use | SaaS back-end | SaaS front-end | Mobile / Desktop App |
 | ------- | --------------- | ------------ | ------------- | -------------- | -------------------- |
@@ -82,7 +82,7 @@ You should run this check as part of your development workflow when modifying de
 
 ### Conditionally permitted licenses
 
-If a license on the above list is permitted only for certain use-cases, you will have to manually mark a dependency as allowed based on the use-case within your application. If in doubt, check with the SDRB, and then mark the dependency allowed, eg:
+If a license on the above list is permitted only for certain use-cases, you will have to manually mark a dependency as allowed based on the use-case within your application. If in doubt, check with the SDRT, and then mark the dependency allowed, eg:
 
 ```shell
 license_finder approvals add redis-objects --version "1.4.3" --who "Ben Langfeld <blangfeld@powerhrg.com>" --why "SaaS backend use-case permitted w/ Artistic-2.0 license by https://tech.powerhrg.com/oss-guide/docs/using/permitted-licenses.html#permitted-licenses"

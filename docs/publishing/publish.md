@@ -7,7 +7,7 @@ has_children: true
 
 # Publish a New Open Source Project
 
-This page highlights the steps you'll take when it comes to publishing company code as an open source project. We require you to follow this process to help prevent over disclosure of information that could result in problems related to copyright, patent, trademark, or information we need to protect. As you plan your publication, remember that you must complete the review process and obtain SDRB approval before you publish any code externally.
+This page highlights the steps you'll take when it comes to publishing company code as an open source project. We require you to follow this process to help prevent over disclosure of information that could result in problems related to copyright, patent, trademark, or information we need to protect. As you plan your publication, remember that you must complete the review process and obtain SDRT approval before you publish any code externally.
 
 ### Step Zero: Planning for Success
 
@@ -26,7 +26,7 @@ Also before publishing a new project, let's find out if we could contribute your
 
 ## [Step 2:](../publishing/approval.md) Get Approvals
 
-The SDRB handles most open source project approval steps for you. You can find the details on the [Approvals](../publishing/approval.md) page of this guide. Keep in mind there may be other approvals you should have in hand before coming to us, and these depend on the nature of the project you seek to publish.
+The SDRT handles most open source project approval steps for you. You can find the details on the [Approvals](../publishing/approval.md) page of this guide. Keep in mind there may be other approvals you should have in hand before coming to us, and these depend on the nature of the project you seek to publish.
 
 Make sure your team has approved your plan to publish this project before you request a publication review. We have a step in the review process where we ask about other people at the company who may need to endorse this publication too.
 

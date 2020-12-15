@@ -13,7 +13,7 @@ In the case of open source, things are slightly more complicated since on the on
 
 To participate in work-related open source projects:
 1. Use your personal GitHub.com account. Create one if you don't have one.
-1. [Add your powerhrg.com email address to your account](https://github.com/settings/emails). Please [use this email address to make work-related commits](https://docs.github.com/en/free-pro-team@latest/github/setting-up-and-managing-your-github-user-account/setting-your-commit-email-address). Why? because some projects track contributions by company and we'd like to celebrate the work you are doing. If you are reluctant to associate your work address with your personal account, please contact the SDRB to discuss a work-around.
+1. [Add your powerhrg.com email address to your account](https://github.com/settings/emails). Please [use this email address to make work-related commits](https://docs.github.com/en/free-pro-team@latest/github/setting-up-and-managing-your-github-user-account/setting-your-commit-email-address). Why? because some projects track contributions by company and we'd like to celebrate the work you are doing. If you are reluctant to associate your work address with your personal account, please contact the SDRT to discuss a work-around.
 1. [Activate two-factor authentication on your account](https://github.com/settings/security). This is a good security practice in general, and is required for all users who are given access to the powerhome org. **Make sure you save the recovery codes for your two-factor authentication**, we will not be able to help you if you lose your security device and get locked out of your account.
 1. [Add an SSH key](https://github.com/settings/keys) to your account to make it easier to access GitHub.com from the command line.
 
@@ -28,7 +28,7 @@ A reminder: Do not post company code in your personal GitHub account without get
 
 ## GitHub Organizations
 
-Power open source projects are released on GitHub.com and are published in [the powerhome organization](../resources/resources-external.md). Do not publish any content to an organization you created without first consulting the SDRB. If you need to claim an organization name for a project we're about to publish, feel free to do so, but consult with the SDRB before publishing anything to it.
+Power open source projects are released on GitHub.com and are published in [the powerhome organization](../resources/resources-external.md). Do not publish any content to an organization you created without first consulting the SDRT. If you need to claim an organization name for a project we're about to publish, feel free to do so, but consult with the SDRT before publishing anything to it.
 
 It may be appropriate to publish code to your personal account. e.g. your code (not related to work).
 1. Purely personal projects that have nothing to do with your job. (We'll help you determine if this is the case.)
@@ -39,22 +39,22 @@ Any code referenced from our documentation or blog post belongs in [the powerhom
 
 ### GitHub App Policy
 
-Developer teams benefit from using certain GitHub Apps to improve their workflow and code quality. Certain apps, like Travis CI, are already installed in our GitHub organization because they are widely used and require very basic permissions that don't pose much risk. However, some apps require certain permissions that create potential security risks. For this reason, we make sure apps don't request more permissions than we're willing to accept. If you have questions about the security concerns of granting certain permissions to GitHub Apps, contact the SDRB.
+Developer teams benefit from using certain GitHub Apps to improve their workflow and code quality. Certain apps, like Travis CI, are already installed in our GitHub organization because they are widely used and require very basic permissions that don't pose much risk. However, some apps require certain permissions that create potential security risks. For this reason, we make sure apps don't request more permissions than we're willing to accept. If you have questions about the security concerns of granting certain permissions to GitHub Apps, contact the SDRT.
 
 #### How to Install a new GitHub App
 
 1. Have the developer team go through the normal sign up process for the GitHub App. This will generate an email to the organization owners that someone is requesting to install an app.
-1. This email will include a link to review the permissions the app is requesting. Contact the SDRB if you have questions about certain permissions that apps request.
+1. This email will include a link to review the permissions the app is requesting. Contact the SDRT if you have questions about certain permissions that apps request.
 
 The following lists provide examples of permissions that pose varying levels of risk.
 
 1. Apps that request read-access to public information in repositories for code, issues, pull requests, commit status, etc. are accepted by default.
 1. We consider apps that request read-access to non-public information on public repositories, such as webhooks and membership metadata, or that request write-access to comments, pull requests, and issues to be low-risk and usually acceptable.
-1. Apps that request: Write-access to code repositories, Read/write access to private repositories, and Write access to non-public information like webhooks, membership, and emails to be moderate-risk and need to be reviewed by the SDRB.
-1. Apps that request: Admin control over repositories, Owner control over organization, or Read/write access to GPG keys are high-risk and need to be reviewed by the SDRB and will probably be rejected.
+1. Apps that request: Write-access to code repositories, Read/write access to private repositories, and Write access to non-public information like webhooks, membership, and emails to be moderate-risk and need to be reviewed by the SDRT.
+1. Apps that request: Admin control over repositories, Owner control over organization, or Read/write access to GPG keys are high-risk and need to be reviewed by the SDRT and will probably be rejected.
 
 ## GitHub Repos
 
-**Request a Repo.** Request a new repository by contacting the SDRB (or opening a ticket on our queue). We stage code in a private repo, and expect these are going to be made public once approved. If you need a private repo for a long term project, please reach out to the SDRB to discuss. Note: [GitHub Pages](https://help.github.com/en/github/working-with-github-pages/about-github-pages#project-pages-sites) are always visible to the public, even if the repo is private. If you're staging code for release, run [Jekyll](https://jekyllrb.com/) to preview them locally.
+**Request a Repo.** Request a new repository by contacting the SDRT (or opening a ticket on our queue). We stage code in a private repo, and expect these are going to be made public once approved. If you need a private repo for a long term project, please reach out to the SDRT to discuss. Note: [GitHub Pages](https://help.github.com/en/github/working-with-github-pages/about-github-pages#project-pages-sites) are always visible to the public, even if the repo is private. If you're staging code for release, run [Jekyll](https://jekyllrb.com/) to preview them locally.
 
-**Archive a Repo.** Open source projects don't remain active forever. We archive repositories when they are no longer being worked on. The archive feature makes the repository read-only and prevents changes to the code, Issues, PR's, the wiki, and more. In those cases, we ask maintainers to add a line at the top of the README to indicate that the project is no longer being maintained. Please ask the SDRB for help if you'd like us to archive a project.
+**Archive a Repo.** Open source projects don't remain active forever. We archive repositories when they are no longer being worked on. The archive feature makes the repository read-only and prevents changes to the code, Issues, PR's, the wiki, and more. In those cases, we ask maintainers to add a line at the top of the README to indicate that the project is no longer being maintained. Please ask the SDRT for help if you'd like us to archive a project.

@@ -7,7 +7,7 @@ nav_order: 5
 
 # Blogging Your Open Source Projects
 
-This page highlights how the SDRB helps you promote your project using blogs.
+This page highlights how the SDRT helps you promote your project using blogs.
 
 Power's BT department hosts a [tech blog](https://blog.techatpower.com/). We invite all members of BT to publish technical content to this blog.
 
@@ -36,9 +36,9 @@ Blot posts should be 750-1000 words. If you need more than 1000 words, consider 
 
 ## Step 4: Review
 
-Before we publish your blog post, you have to get approval from the SDRB.
+Before we publish your blog post, you have to get approval from the SDRT.
 
-Share your blog draft with the SDRB and we'll review and hopefully publish the blog post and promote it internally and externally.
+Share your blog draft with the SDRT and we'll review and hopefully publish the blog post and promote it internally and externally.
 
 ## Step 5: Attribution Considerations
 
