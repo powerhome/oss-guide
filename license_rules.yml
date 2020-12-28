@@ -101,3 +101,9 @@
     :why: 'Permitted for all use cases: https://tech.powerhrg.com/oss-guide/docs/using/permitted-licenses.html#permitted-licenses'
     :versions: []
     :when: 2020-12-09 05:22:39.667274000 Z
+- - :permit
+  - ODC-By-1.0
+  - :who: Ben Langfeld <blangfeld@powerhrg.com>
+    :why: 'Permitted for all use cases: https://tech.powerhrg.com/oss-guide/docs/using/permitted-licenses.html#permitted-licenses'
+    :versions: []
+    :when: 2020-12-28 20:16:11.315018000 Z
