@@ -11,7 +11,7 @@ nav_order: 2
 
 **Copyright** is a collection of rights protected by the government that applies to original works of authorship fixed in any tangible medium of expression. These rights ensure the copyright owner can decide who can copy the work. Yet this gets much more complicated.
 
-What if there was no copyright protection? You author a work (i.e. write a novel, compose a song, create an app), and someone wants to use it without your permission. Perhaps the sovereign emperor of the land likes your novel and decides to publish it for you, (aybe without including your name or paying you. Perhaps someone who hacks into your computer decides to share an app you were planning on selling with the world (maybe before you were ready) and make money from it themselves. Technically you still have your property -- it was not stolen in the way a car is stolen. Your rights were infringed. Your agency was taken away. Copyright is the set of laws that protect your rights in these situations.
+What if there was no copyright protection? You author a work (i.e. write a novel, compose a song, create an app), and someone wants to use it without your permission. Perhaps the sovereign emperor of the land likes your novel and decides to publish it for you, (maybe without including your name or paying you. Perhaps someone who hacks into your computer decides to share an app you were planning on selling with the world (maybe before you were ready) and make money from it themselves. Technically you still have your property -- it was not stolen in the way a car is stolen. Your rights were infringed. Your agency was taken away. Copyright is the set of laws that protect your rights in these situations.
 
 ### What Does Copyright Protect?
 
