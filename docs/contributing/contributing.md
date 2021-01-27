@@ -27,7 +27,7 @@ Most CLAs contain terms that we are okay signing, so don't be worried about aski
 
 If a corporate CLA is required in place of or in addition to an individual CLA, a member of the SDRT must sign this; employees other than members of the SDRT are not authorized to sign CLAs in Power's name.
 
-## Step 4: Review your Contributions
+## Step 3: Review your Contributions
 
 Although this should be obvious, let's take this moment to remind you:
 * We can only contribute code that we have the right to contribute. If you have any reason to think you are contributing code that we shouldn't contribute, open a ticket with the SDRT and let's clarify things first.
@@ -36,7 +36,7 @@ Although this should be obvious, let's take this moment to remind you:
 
 Once in a while we're reminded that it's better if you think things through first. Most of the time, a code contribution to an open source project is a normal and inconsequential task. But sometimes it's more than that. If you are working on something that is quite consequential, and you have any reason to wonder if you should make this contribution, open a ticket and ask us for help.
 
-## Step 5: Review the Project
+## Step 4: Review the Project
 
 If the project you seek to contribute to has many unanswered issues and many untouched pull requests, you probably have a dead project. Contributing to it will do you little good. Moreover, if you are contributing to it, presumably we're using this code; yet it's not supported by an active community. Maybe we're better off finding an alternative, or in some cases we might have to ressurect the project and support it ourselves. Feel free to open a ticket with the SDRT and we can help you work through this.
 
