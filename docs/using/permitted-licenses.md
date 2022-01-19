@@ -71,7 +71,7 @@ The following licenses are permitted for use for each category of use case. Any 
 Power projects which use open-source software should enforce the exclusive utilisation of permitted licenses by use-case using [license_finder](https://github.com/pivotal/LicenseFinder). Check out the project README to understand how to begin using it. In order to get started with the list of permitted licenses, inherit from the standard Power configuration:
 
 ```shell
-license_finder inherited_decisions add https://tech.powerhrg.com/oss-guide/license_rules.yml
+license_finder inherited_decisions add https://raw.githubusercontent.com/powerhome/oss-guide/master/license_rules.yml
 ```
 
 Check which dependencies are not permitted by the standard configuration:
