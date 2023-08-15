@@ -45,6 +45,7 @@ The following licenses are permitted for use for each category of use case. Any 
 | Artistic License 2.0 | Artistic-2.0 | ✅ | ✅ | 🚫 | 🚫 |
 | Berkeley Software Distribution (BSD) 3-clause | BSD-3-Clause | ✅ | ✅ | ✅ | ✅ |
 | Berkeley Software Distribution (BSD) 2-clause | BSD-2-Clause | ✅ | ✅ | ✅ | ✅ |
+| Blue Oak Model License 1.0.0 | BlueOak-1.0.0 | ✅ | ✅ | ✅ | ✅ |
 | Common Development and Distribution License 1.0 | CDDL-1.0 | ✅ | ✅ | ✅ | ✅ |
 | Creative Commons Attribution 3.0 International | CC-BY-3.0 | ✅ | ✅ | ✅ | ✅ |
 | Creative Commons Attribution 4.0 International | CC-BY-4.0 | ✅ | ✅ | ✅ | ✅ |
@@ -62,6 +63,7 @@ The following licenses are permitted for use for each category of use case. Any 
 | Python License 2.0 | Python-2.0 | ✅ | ✅ | ✅ | ✅ |
 | Ruby License | Ruby | ✅ | ✅ | ✅ | ✅ |
 | Open Data Commons Attribution License v1.0 | ODC-By-1.0 | ✅ | ✅ | ✅ | ✅ |
+| SIL Open Font License 1.1 | OFL-1.1 | ✅ | ✅ | ✅ | ✅ |
 | The Unlicense | Unlicense | ✅ | ✅ | ✅ | ✅ |
 | The zlib/libpng License | Zlib | ✅ | ✅ | ✅ | ✅ |
 | Zero-Clause BSD License | 0BSD | ✅ | ✅ | ✅ | ✅ |
