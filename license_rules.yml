@@ -113,3 +113,15 @@
     :why: 'Permitted for all use cases: https://tech.powerhrg.com/oss-guide/docs/using/permitted-licenses.html\#permitted-licenses'
     :versions: []
     :when: 2021-07-17 17:13:08.610133000 Z
+- - :permit
+  - OFL-1.1
+  - :who: Ben Langfeld <blangfeld@powerhrg.com>
+    :why: 'Permitted for all use cases: https://tech.powerhrg.com/oss-guide/docs/using/permitted-licenses.html\#permitted-licenses'
+    :versions: []
+    :when: 2023-08-15 01:13:00.000000000 Z
+- - :permit
+  - BlueOak-1.0.0
+  - :who: Ben Langfeld <blangfeld@powerhrg.com>
+    :why: 'Permitted for all use cases: https://tech.powerhrg.com/oss-guide/docs/using/permitted-licenses.html\#permitted-licenses'
+    :versions: []
+    :when: 2023-08-15 01:13:00.000000000 Z
