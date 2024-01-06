@@ -21,7 +21,7 @@ DEPENDENCIES
   license_finder (~> 6.10)
 
 RUBY VERSION
-   ruby 2.7.1p83
+   ruby 3.3.0p0
 
 BUNDLED WITH
-   2.1.4
+   2.5.4
