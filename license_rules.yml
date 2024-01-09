@@ -125,3 +125,10 @@
     :why: 'Permitted for all use cases: https://tech.powerhrg.com/oss-guide/docs/using/permitted-licenses.html\#permitted-licenses'
     :versions: []
     :when: 2023-08-15 01:13:00.000000000 Z
+- - :permit
+  - MIT AND (BSD-2-Clause OR GPL-2.0-or-later)
+  - :who: Ben Langfeld <blangfeld@powerhrg.com>
+    :why: Each of these licenses is permitted, but license_finder is unable to understand
+      the expression. See https://github.com/pivotal/LicenseFinder/issues/1012.
+    :versions: []
+    :when: 2024-01-09 14:11:44.344657000 Z
