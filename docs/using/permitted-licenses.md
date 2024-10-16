@@ -50,6 +50,8 @@ The following licenses are permitted for use for each category of use case. Any 
 | Creative Commons Attribution 3.0 International | CC-BY-3.0 | ✅ | ✅ | ✅ | ✅ |
 | Creative Commons Attribution 4.0 International | CC-BY-4.0 | ✅ | ✅ | ✅ | ✅ |
 | Creative Commons Zero v 1.0 Universal | CC0-1.0 | ✅ | ✅ | ✅ | ✅ |
+| Eclipse Public License 1.0 | EPL-1.0 | ✅ | ✅ | ✅ | ✅ |
+| Eclipse Public License 2.0 | EPL-2.0 | ✅ | ✅ | ✅ | ✅ |
 | GNU Affero General Public License version 3 | AGPL-3.0 | 🚫 | 🚫 | 🚫 | 🚫 |
 | GNU General Public License version 2 | GPL-2.0 | ✅ | ✅ | 🚫 | 🚫 |
 | GNU General Public License version 3 | GPL-3.0 | ✅ | ✅ | 🚫 | 🚫 |

@@ -138,3 +138,15 @@
     :why: The terms of the Brakeman Public Use License are acceptable for our non-commercial usage of Brakeman.
     :versions: []
     :when: 2024-05-03 20:35:59.415926000 Z
+- - :permit
+  - EPL-1.0
+  - :who: Ben Langfeld <blangfeld@powerhrg.com>
+    :why: 'Permitted for all use cases: https://tech.powerhrg.com/oss-guide/docs/using/permitted-licenses.html\#permitted-licenses'
+    :versions: []
+    :when: 2024-10-16 15:07:31.213826000 Z
+- - :permit
+  - EPL-2.0
+  - :who: Ben Langfeld <blangfeld@powerhrg.com>
+    :why: 'Permitted for all use cases: https://tech.powerhrg.com/oss-guide/docs/using/permitted-licenses.html\#permitted-licenses'
+    :versions: []
+    :when: 2024-10-16 15:07:31.213826000 Z
