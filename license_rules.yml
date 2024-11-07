@@ -150,3 +150,9 @@
     :why: 'Permitted for all use cases: https://tech.powerhrg.com/oss-guide/docs/using/permitted-licenses.html\#permitted-licenses'
     :versions: []
     :when: 2024-10-16 15:07:31.213826000 Z
+- - :permit
+  - HPND
+  - :who: Michel Filipe <michel.filipe@powerhrg.com>
+    :why: 'Permitted for all use cases: https://tech.powerhrg.com/oss-guide/docs/using/permitted-licenses.html\#permitted-licenses'
+    :versions: []
+    :when: 2024-11-07 20:39:53.876803888 Z
