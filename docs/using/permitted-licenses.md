@@ -57,6 +57,7 @@ The following licenses are permitted for use for each category of use case. Any 
 | GNU General Public License version 3 | GPL-3.0 | ✅ | ✅ | 🚫 | 🚫 |
 | GNU Lesser General Public License version 2.1 | LGPL-2.1 | ✅ | ✅ | 🚫 | 🚫 |
 | GNU Lesser General Public License version 3 | LGPL-3.0 | ✅ | ✅ | 🚫 | 🚫 |
+| Historical Permission Notice and Disclaimer | HPND | ✅ | ✅ | ✅ | ✅ |
 | ISC License | ISC | ✅ | ✅ | ✅ | ✅ |
 | MIT License | MIT | ✅ | ✅ | ✅ | ✅ |
 | Mozilla Public License 1.0 | MPL-1.0 | ✅ | ✅ | ✅ | ✅ |
