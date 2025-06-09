@@ -60,6 +60,7 @@ The following licenses are permitted for use for each category of use case. Any 
 | Historical Permission Notice and Disclaimer | HPND | ✅ | ✅ | ✅ | ✅ |
 | ISC License | ISC | ✅ | ✅ | ✅ | ✅ |
 | MIT License | MIT | ✅ | ✅ | ✅ | ✅ |
+| MIT No Attribution License | MIT-0 | ✅ | ✅ | ✅ | ✅ |
 | Mozilla Public License 1.0 | MPL-1.0 | ✅ | ✅ | ✅ | ✅ |
 | Mozilla Public License 1.1 | MPL-1.1 | ✅ | ✅ | ✅ | ✅ |
 | Mozilla Public License 2.0 | MPL-2.0 | ✅ | ✅ | ✅ | ✅ |
