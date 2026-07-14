@@ -2,7 +2,7 @@
 
 source "https://rubygems.org"
 
-ruby "4.0.1"
+ruby "4.0.6"
 
 gem "license_finder", "~> 7.0", require: false
 gem "racc"
